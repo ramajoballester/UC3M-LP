@@ -1,6 +1,6 @@
 # UC3M-LP
 
-UC3M-LP dataset is a comprehensive and open-source collection of annotated images for European (Spanish) license plate detection and recognition tasks. Researchers and developers are encouraged to use the UC3M-LP dataset to develop and evaluate algorithms for license plate detection, localization, character segmentation, and optical character recognition (OCR). The dataset also supports various research areas such as vehicle surveillance, automated toll systems, traffic analysis, and security applications.
+UC3M-LP dataset is a comprehensive and open-source collection of annotated images for European (Spanish) license plate detection and recognition tasks. Researchers and developers are encouraged to use the UC3M-LP dataset to develop and evaluate algorithms for license plate detection, localization, character segmentation, and optical character recognition (OCR). The dataset also supports various research areas such as vehicle surveillance, automated toll systems, traffic analysis, and security applications. Check the [open-access paper](https://doi.org/10.1016/j.robot.2023.104608).
 
 It is the largest open-source dataset for European license plate detection and recognition and the first one ever dedicated to Spanish license plates. It contains 1975 images from 2547 different vehicles with their corresponding license plate, comprising a total of 12757 plate characters.
 
@@ -48,10 +48,25 @@ and the second letter refers to the lighting conditions:
 - Type N: 362 samples at nighttime.
 
 
-<!-- ## Citation -->
+## Citation
 
-<!-- If you use this dataset in your research, please cite the following paper: -->
+If you use this dataset in your research, please cite the following paper:
 
-<!-- Waiting for acceptance -->
+```
+@article{RamajoBallester2024,
+    title = {Dual license plate recognition and visual features encoding for vehicle identification},
+    journal = {Robotics and Autonomous Systems},
+    volume = {172},
+    pages = {104608},
+    year = {2024},
+    issn = {0921-8890},
+    doi = {https://doi.org/10.1016/j.robot.2023.104608},
+    url = {https://www.sciencedirect.com/science/article/pii/S0921889023002476},
+    author = {Álvaro Ramajo-Ballester and José María {Armingol Moreno} and Arturo {de la Escalera Hueso}},
+    keywords = {Deep learning, Public dataset, ALPR, License plate recognition, Vehicle re-identification, Object detection},
+}
+```
 
+## Download
 
+The dataset is available for [download](https://doi.org/10.21950/OS5W4Z).
