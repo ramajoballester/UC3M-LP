@@ -70,3 +70,49 @@ If you use this dataset in your research, please cite the following paper:
 ## Download
 
 The dataset is available for [download](https://doi.org/10.21950/OS5W4Z).
+
+
+## Transform to YOLO format
+
+The dataset is provided in a custom format. To transform it to YOLO format, please follow these instructions:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/ramajoballester/UC3M-LP.git
+cd UC3M-LP
+```
+
+2. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Download and extract the dataset files and create this directory structure:
+
+```
+path/to/UC3M-LP/
+└─── train
+│   └─── 00001.jpg
+│   └─── 00001.json
+│   └─── 00002.jpg
+│   └─── 00002.json
+│   └─── ...
+└─── test
+│   └─── 00001.jpg
+│   └─── 00001.json
+│   └─── 00002.jpg
+│   └─── 00002.json
+│   └─── ...
+└─── train.txt
+└─── test.txt
+```
+
+4. Run the script to transform the dataset to YOLO format. It will create 2 versions of the dataset, one for LP detection from the whole image and another one for LP recognition from the cropped LP region. The script will resize the images to the specified dimensions and save the resulting images and labels in in new directories. You can specify the desired dimensions for the images as arguments of the script.
+
+```bash
+python scripts/labels2yolo.py path/to/UC3M-LP 320 160
+```
+
+Run `python scripts/labels2yolo.py -h` for more information.
