@@ -3,6 +3,7 @@ import json
 import cv2
 import argparse
 from tqdm import tqdm
+import utils
 
 
 def create_yolo_bbox_string(class_id, bbox, img_width, img_height):
@@ -17,12 +18,15 @@ def transform_dataset(input_directory, lp_size, ocr_size):
     train_txt_path = os.path.join(input_directory, 'train.txt')
     test_txt_path = os.path.join(input_directory, 'test.txt')
 
-    # Get parent directory of input_directory
-    lp_directory = os.path.join(os.path.dirname(input_directory),
-        'UC3M-LP-yolo', 'LP')
-    ocr_directory = os.path.join(os.path.dirname(input_directory),
-        'UC3M-LP-yolo', 'OCR')
+    # Normalize input directory
+    input_directory = os.path.normpath(input_directory)
 
+    last_dir = os.path.basename(os.path.normpath(input_directory)) + '-yolo'
+    lp_directory = os.path.join(os.path.dirname(input_directory),
+        last_dir, 'LP')                                
+    ocr_directory = os.path.join(os.path.dirname(input_directory),
+        last_dir, 'OCR')
+    
     # Create directories if not exist
     os.makedirs(os.path.join(lp_directory, 'images', 'train'), exist_ok=True)
     os.makedirs(os.path.join(lp_directory, 'images', 'val'), exist_ok=True)
@@ -61,11 +65,7 @@ def transform_dataset(input_directory, lp_size, ocr_size):
                 poly_coord = lp_data['poly_coord']
 
                 # Convert polygonal annotation to rectangular bbox
-                min_x = min(coord[0] for coord in poly_coord)
-                max_x = max(coord[0] for coord in poly_coord)
-                min_y = min(coord[1] for coord in poly_coord)
-                max_y = max(coord[1] for coord in poly_coord)
-                lp_bbox = [[min_x, min_y], [max_x, max_y]]
+                lp_bbox = utils.poly2bbox(poly_coord)
 
                 # Write license plate image
                 lp_output_path = os.path.join(lp_directory, 'images', 
@@ -112,9 +112,7 @@ def transform_dataset(input_directory, lp_size, ocr_size):
                         ocr_f.write(create_yolo_bbox_string(class_id, bbox, ocr_width, ocr_height) + '\n')
 
 
-# Example usage
 if __name__ == '__main__':
-    # Get previous arguments from command line
     parser = argparse.ArgumentParser()
     parser.add_argument('input_directory', type=str, help='Path to input dataset')
     parser.add_argument('lp_size', type=int, help='YOLO input size for LP detection')
