@@ -4,6 +4,7 @@ import cv2
 import argparse
 from tqdm import tqdm
 import utils
+import shutil
 
 
 def create_yolo_bbox_string(class_id, bbox, img_width, img_height):
@@ -91,6 +92,8 @@ def transform_dataset(input_directory, lp_size, ocr_size):
                     yolo_split, f'{filename}_{lp_id}.jpg')
                 # Crop lp_img to lp_bbox
                 ocr_img = lp_img[lp_bbox[0][1]:lp_bbox[1][1], lp_bbox[0][0]:lp_bbox[1][0]]
+                ocr_img_offset_x = lp_bbox[0][0]
+                ocr_img_offset_y = lp_bbox[0][1]
                 ocr_height, ocr_width, _ = ocr_img.shape
                 # Resize OCR image to desired size
                 rescale_factor_ocr = ocr_size / max(ocr_height, ocr_width)
@@ -102,6 +105,8 @@ def transform_dataset(input_directory, lp_size, ocr_size):
                 for char_data in lp_data['characters']:
                     char_id = char_data['char_id']
                     bbox = char_data['bbox_coord']
+                    bbox = [[bbox[0][0] - ocr_img_offset_x, bbox[0][1] - ocr_img_offset_y],
+                            [bbox[1][0] - ocr_img_offset_x, bbox[1][1] - ocr_img_offset_y]]
                     class_id = ocr_classes.index(char_id)
 
                     # Write YOLO bbox annotation for character
@@ -110,6 +115,10 @@ def transform_dataset(input_directory, lp_size, ocr_size):
                     append_write_ocr = 'a' if os.path.exists(ocr_yolo_path) else 'w'
                     with open(ocr_yolo_path, append_write_ocr) as ocr_f:
                         ocr_f.write(create_yolo_bbox_string(class_id, bbox, ocr_width, ocr_height) + '\n')
+
+    utils.create_txt_file(lp_directory)
+    utils.create_txt_file(ocr_directory)
+
 
 
 if __name__ == '__main__':

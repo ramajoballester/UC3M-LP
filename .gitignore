@@ -1,6 +1,7 @@
 *.code-workspace
 data/
 .vscode/
+*.pt
 
 
 # Byte-compiled / optimized / DLL files
