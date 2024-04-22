@@ -1,0 +1,25 @@
+# UC3M-LP dataset https://github.com/ramajoballester/UC3M-LP by Álvaro Ramajo-Ballester from Universidad Carlos III de Madrid
+# parent
+# ├── ultralytics
+# └── datasets
+#     └── UC3M-LP-yolo
+#         ├── OCR
+#         │   ├── images
+#         │   └── labels
+#         │   └── train.txt
+#         │   └── val.txt
+#         └── LP
+#             ├── images
+#             └── labels
+#             └── train.txt
+#             └── val.txt
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: UC3M-LP-withvowels-yolo/LP/     # dataset root dir
+train: images/train                   # train images (relative to 'path')
+val: images/val                       # val images (relative to 'path')
+test:                                 # test images (optional)
+
+# Classes
+names:
+  0: license plate
