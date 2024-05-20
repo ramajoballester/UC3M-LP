@@ -1,18 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 167,
-    "uniques": 26
+    "count": 159,
+    "uniques": 24
   },
   {
     "referrer": "lsi.uc3m.es",
     "count": 82,
     "uniques": 10
-  },
-  {
-    "referrer": "m.facebook.com",
-    "count": 21,
-    "uniques": 1
   },
   {
     "referrer": "github.com",
