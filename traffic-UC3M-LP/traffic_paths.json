@@ -2,20 +2,38 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 75,
-    "uniques": 42
+    "count": 78,
+    "uniques": 45
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "UC3M-LP/sample at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 50,
+    "count": 52,
     "uniques": 13
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
     "title": "UC3M-LP/docs/dataset.png at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 26,
-    "uniques": 5
+    "count": 28,
+    "uniques": 6
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
+    "title": "UC3M-LP/cfg at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 23,
+    "uniques": 8
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/cfg/UC3M-LP-lp.yaml",
+    "title": "UC3M-LP/cfg/UC3M-LP-lp.yaml at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 21,
+    "uniques": 4
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
+    "title": "UC3M-LP/docs at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 20,
+    "uniques": 7
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
@@ -24,16 +42,10 @@
     "uniques": 7
   },
   {
-    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
-    "title": "UC3M-LP/docs at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 18,
-    "uniques": 6
-  },
-  {
     "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
     "title": "UC3M-LP/scripts at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 17,
-    "uniques": 6
+    "count": 18,
+    "uniques": 7
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.json",
@@ -42,20 +54,8 @@
     "uniques": 6
   },
   {
-    "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
-    "title": "UC3M-LP/cfg at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 15,
-    "uniques": 6
-  },
-  {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00064.jpg",
     "title": "UC3M-LP/sample/00064.jpg at main · ramajoballester/UC3M-LP",
-    "count": 14,
-    "uniques": 5
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/scripts/labels2yolo.py",
-    "title": "UC3M-LP/scripts/labels2yolo.py at main · ramajoballester/UC3M-LP · GitHub",
     "count": 14,
     "uniques": 5
   }
