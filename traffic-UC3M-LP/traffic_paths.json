@@ -2,8 +2,8 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 57,
-    "uniques": 35
+    "count": 61,
+    "uniques": 38
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
@@ -56,7 +56,7 @@
   {
     "path": "/ramajoballester/UC3M-LP/tree/main",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 9,
-    "uniques": 5
+    "count": 8,
+    "uniques": 4
   }
 ]
