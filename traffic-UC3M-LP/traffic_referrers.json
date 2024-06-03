@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 186,
-    "uniques": 22
+    "count": 156,
+    "uniques": 21
   },
   {
     "referrer": "github.com",
@@ -21,11 +21,6 @@
   },
   {
     "referrer": "brunch.co.kr",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "edatos.consorciomadrono.es",
     "count": 1,
     "uniques": 1
   }
