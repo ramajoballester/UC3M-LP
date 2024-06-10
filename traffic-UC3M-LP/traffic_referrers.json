@@ -1,21 +1,16 @@
 [
   {
     "referrer": "Google",
-    "count": 87,
-    "uniques": 19
+    "count": 86,
+    "uniques": 18
   },
   {
     "referrer": "github.com",
-    "count": 11,
-    "uniques": 3
+    "count": 9,
+    "uniques": 2
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "innovatrics.atlassian.net",
     "count": 1,
     "uniques": 1
   }
