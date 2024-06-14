@@ -2,25 +2,49 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 39,
-    "uniques": 27
+    "count": 43,
+    "uniques": 29
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
-    "title": "UC3M-LP/sample at main · ramajoballester/UC3M-LP",
-    "count": 15,
-    "uniques": 4
+    "title": "UC3M-LP/sample at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 23,
+    "uniques": 6
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
-    "title": "UC3M-LP/sample/00026.jpg at main · ramajoballester/UC3M-LP",
-    "count": 9,
-    "uniques": 4
+    "title": "UC3M-LP/sample/00026.jpg at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 13,
+    "uniques": 6
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
     "title": "UC3M-LP/scripts at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 6,
+    "count": 11,
+    "uniques": 4
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
+    "title": "UC3M-LP/docs at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 7,
+    "uniques": 2
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
+    "title": "UC3M-LP/docs/dataset.png at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/docs/lp_a.jpg",
+    "title": "UC3M-LP/docs/lp_a.jpg at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main",
+    "title": "UC3M-LP/ at main · ramajoballester/UC3M-LP",
+    "count": 5,
     "uniques": 2
   },
   {
@@ -34,29 +58,5 @@
     "title": "UC3M-LP/sample/00064.jpg at main · ramajoballester/UC3M-LP",
     "count": 4,
     "uniques": 2
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main",
-    "title": "UC3M-LP/ at main · ramajoballester/UC3M-LP",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
-    "title": "UC3M-LP/docs/dataset.png at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/docs/lp_a.jpg",
-    "title": "UC3M-LP/docs/lp_a.jpg at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/docs/lp_b.png",
-    "title": "UC3M-LP/docs/lp_b.png at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 3,
-    "uniques": 1
   }
 ]
