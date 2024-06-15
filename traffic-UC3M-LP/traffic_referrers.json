@@ -1,8 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 77,
-    "uniques": 18
+    "count": 78,
+    "uniques": 19
+  },
+  {
+    "referrer": "github.com",
+    "count": 44,
+    "uniques": 3
   },
   {
     "referrer": "pdf.sciencedirectassets.com",
@@ -13,10 +18,5 @@
     "referrer": "lsi.uc3m.es",
     "count": 10,
     "uniques": 3
-  },
-  {
-    "referrer": "github.com",
-    "count": 7,
-    "uniques": 2
   }
 ]
