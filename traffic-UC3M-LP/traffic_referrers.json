@@ -1,18 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 82,
-    "uniques": 25
-  },
-  {
-    "referrer": "Bing",
-    "count": 19,
-    "uniques": 1
+    "count": 77,
+    "uniques": 24
   },
   {
     "referrer": "github.com",
-    "count": 8,
-    "uniques": 3
+    "count": 7,
+    "uniques": 2
   },
   {
     "referrer": "statics.teams.cdn.office.net",
