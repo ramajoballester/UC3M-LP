@@ -3,7 +3,7 @@
     "path": "/ramajoballester/UC3M-LP",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
     "count": 76,
-    "uniques": 44
+    "uniques": 43
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
@@ -42,6 +42,12 @@
     "uniques": 4
   },
   {
+    "path": "/ramajoballester/UC3M-LP/issues/3",
+    "title": "BGR and RGB images in the dataset · Issue #3 · ramajoballester/UC3M-LP",
+    "count": 8,
+    "uniques": 2
+  },
+  {
     "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
     "title": "UC3M-LP/docs/dataset.png at main · ramajoballester/UC3M-LP · GitHub",
     "count": 7,
@@ -52,11 +58,5 @@
     "title": "UC3M-LP/scripts/labels2yolo.py at main · ramajoballester/UC3M-LP · GitHub",
     "count": 6,
     "uniques": 2
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/issues/3",
-    "title": "BGR and RGB images in the dataset · Issue #3 · ramajoballester/UC3M-LP",
-    "count": 5,
-    "uniques": 1
   }
 ]
