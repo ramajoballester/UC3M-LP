@@ -2,38 +2,32 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 91,
-    "uniques": 50
+    "count": 93,
+    "uniques": 53
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "UC3M-LP/sample at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 22,
-    "uniques": 7
+    "count": 23,
+    "uniques": 8
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 12,
+    "count": 15,
     "uniques": 5
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
-    "title": "UC3M-LP/scripts at main · ramajoballester/UC3M-LP",
-    "count": 10,
-    "uniques": 3
+    "title": "UC3M-LP/scripts at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 11,
+    "uniques": 4
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
-    "title": "UC3M-LP/cfg at main · ramajoballester/UC3M-LP",
-    "count": 9,
-    "uniques": 3
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/issues/3",
-    "title": "BGR and RGB images in the dataset · Issue #3 · ramajoballester/UC3M-LP",
-    "count": 9,
-    "uniques": 2
+    "title": "UC3M-LP/cfg at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 10,
+    "uniques": 4
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
@@ -52,6 +46,12 @@
     "title": "UC3M-LP/requirements.txt at main · ramajoballester/UC3M-LP · GitHub",
     "count": 7,
     "uniques": 2
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
+    "title": "UC3M-LP/docs at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 6,
+    "uniques": 3
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/docs/lp_a.jpg",
