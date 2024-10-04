@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 85,
-    "uniques": 38
+    "count": 107,
+    "uniques": 42
   },
   {
     "referrer": "lsi.uc3m.es",
@@ -23,6 +23,11 @@
     "referrer": "github.com",
     "count": 7,
     "uniques": 5
+  },
+  {
+    "referrer": "search.brave.com",
+    "count": 3,
+    "uniques": 1
   },
   {
     "referrer": "chatgpt.com",
