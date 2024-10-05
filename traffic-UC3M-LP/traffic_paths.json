@@ -2,13 +2,13 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 89,
-    "uniques": 57
+    "count": 95,
+    "uniques": 59
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "UC3M-LP/sample at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 23,
+    "count": 25,
     "uniques": 10
   },
   {
@@ -20,18 +20,12 @@
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
     "title": "UC3M-LP/scripts at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 11,
-    "uniques": 5
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
-    "title": "UC3M-LP/docs/dataset.png at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 8,
-    "uniques": 4
+    "count": 12,
+    "uniques": 6
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
-    "title": "UC3M-LP/sample/00026.jpg at main · ramajoballester/UC3M-LP · GitHub",
+    "title": "UC3M-LP/sample/00026.jpg at main · ramajoballester/UC3M-LP",
     "count": 7,
     "uniques": 5
   },
@@ -42,20 +36,26 @@
     "uniques": 3
   },
   {
+    "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
+    "title": "UC3M-LP/docs/dataset.png at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 6,
+    "uniques": 3
+  },
+  {
     "path": "/ramajoballester/UC3M-LP/blob/main/cfg/UC3M-LP-ocr.yaml",
     "title": "UC3M-LP/cfg/UC3M-LP-ocr.yaml at main · ramajoballester/UC3M-LP · GitHub",
     "count": 5,
     "uniques": 2
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/docs/lp_a.jpg",
-    "title": "UC3M-LP/docs/lp_a.jpg at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 5,
-    "uniques": 2
-  },
-  {
     "path": "/ramajoballester/UC3M-LP/blob/main/LICENSE",
     "title": "UC3M-LP/LICENSE at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.json",
+    "title": "UC3M-LP/sample/00026.json at main · ramajoballester/UC3M-LP",
     "count": 4,
     "uniques": 3
   }
