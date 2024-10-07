@@ -5,19 +5,19 @@
     "uniques": 52
   },
   {
+    "referrer": "lsi.uc3m.es",
+    "count": 38,
+    "uniques": 6
+  },
+  {
     "referrer": "sciencedirect.com",
     "count": 17,
     "uniques": 3
   },
   {
-    "referrer": "lsi.uc3m.es",
-    "count": 12,
-    "uniques": 4
-  },
-  {
     "referrer": "github.com",
-    "count": 4,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "referrer": "search.brave.com",
