@@ -2,32 +2,26 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 102,
-    "uniques": 67
+    "count": 100,
+    "uniques": 66
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "UC3M-LP/sample at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 27,
-    "uniques": 13
+    "count": 23,
+    "uniques": 11
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
     "title": "UC3M-LP/sample/00026.jpg at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 11,
-    "uniques": 10
+    "count": 10,
+    "uniques": 9
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
     "title": "UC3M-LP/scripts at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 10,
-    "uniques": 7
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main",
-    "title": "UC3M-LP/ at main · ramajoballester/UC3M-LP · GitHub",
     "count": 9,
-    "uniques": 5
+    "uniques": 6
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
@@ -36,16 +30,16 @@
     "uniques": 6
   },
   {
+    "path": "/ramajoballester/UC3M-LP/tree/main",
+    "title": "UC3M-LP/ at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 8,
+    "uniques": 4
+  },
+  {
     "path": "/ramajoballester/UC3M-LP/blob/main/README.md",
     "title": "UC3M-LP/README.md at main · ramajoballester/UC3M-LP · GitHub",
     "count": 7,
     "uniques": 2
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
-    "title": "UC3M-LP/docs at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 6,
-    "uniques": 6
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/requirements.txt",
@@ -54,9 +48,15 @@
     "uniques": 4
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/scripts/labels2yolo.py",
-    "title": "UC3M-LP/scripts/labels2yolo.py at main · ramajoballester/UC3M-LP",
-    "count": 6,
-    "uniques": 2
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.json",
+    "title": "UC3M-LP/sample/00026.json at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 5,
+    "uniques": 5
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
+    "title": "UC3M-LP/cfg at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 5,
+    "uniques": 5
   }
 ]
