@@ -1,13 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 99,
-    "uniques": 37
+    "count": 97,
+    "uniques": 39
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 34,
-    "uniques": 6
+    "count": 8,
+    "uniques": 5
+  },
+  {
+    "referrer": "github.com",
+    "count": 4,
+    "uniques": 4
   },
   {
     "referrer": "statics.teams.cdn.office.net",
@@ -15,18 +20,13 @@
     "uniques": 2
   },
   {
+    "referrer": "DuckDuckGo",
+    "count": 4,
+    "uniques": 2
+  },
+  {
     "referrer": "edatos.consorciomadrono.es",
     "count": 4,
-    "uniques": 1
-  },
-  {
-    "referrer": "github.com",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "referrer": "DuckDuckGo",
-    "count": 2,
     "uniques": 1
   },
   {
