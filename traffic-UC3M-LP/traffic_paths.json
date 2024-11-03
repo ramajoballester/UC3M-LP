@@ -2,14 +2,20 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 80,
-    "uniques": 57
+    "count": 82,
+    "uniques": 58
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "UC3M-LP/sample at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 26,
-    "uniques": 17
+    "count": 31,
+    "uniques": 20
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
+    "title": "UC3M-LP/sample/00026.jpg at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 19,
+    "uniques": 16
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main",
@@ -18,16 +24,16 @@
     "uniques": 8
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
-    "title": "UC3M-LP/sample/00026.jpg at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 16,
-    "uniques": 13
-  },
-  {
     "path": "/ramajoballester/UC3M-LP/tree/main/docs",
     "title": "UC3M-LP/docs at main · ramajoballester/UC3M-LP · GitHub",
     "count": 11,
     "uniques": 5
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.json",
+    "title": "UC3M-LP/sample/00026.json at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 9,
+    "uniques": 7
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
@@ -42,9 +48,9 @@
     "uniques": 6
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.json",
-    "title": "UC3M-LP/sample/00026.json at main · ramajoballester/UC3M-LP",
-    "count": 8,
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/01258.jpg",
+    "title": "UC3M-LP/sample/01258.jpg at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 7,
     "uniques": 6
   },
   {
@@ -52,11 +58,5 @@
     "title": "UC3M-LP/docs/lp_a.jpg at main · ramajoballester/UC3M-LP · GitHub",
     "count": 7,
     "uniques": 5
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/01098.jpg",
-    "title": "UC3M-LP/sample/01098.jpg at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 6,
-    "uniques": 6
   }
 ]

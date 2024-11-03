@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 147,
-    "uniques": 44
+    "count": 156,
+    "uniques": 45
   },
   {
     "referrer": "www-sciencedirect-com.ezproxy.utm.my",
@@ -30,12 +30,12 @@
     "uniques": 2
   },
   {
-    "referrer": "cn.bing.com",
-    "count": 1,
+    "referrer": "pdf.sciencedirectassets.com",
+    "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "pdf.sciencedirectassets.com",
+    "referrer": "cn.bing.com",
     "count": 1,
     "uniques": 1
   }
