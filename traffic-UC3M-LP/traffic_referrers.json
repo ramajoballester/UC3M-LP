@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 142,
-    "uniques": 38
+    "count": 149,
+    "uniques": 41
   },
   {
-    "referrer": "www-sciencedirect-com.ezproxy.utm.my",
-    "count": 7,
-    "uniques": 1
+    "referrer": "lsi.uc3m.es",
+    "count": 22,
+    "uniques": 5
   },
   {
     "referrer": "github.com",
@@ -15,7 +15,12 @@
     "uniques": 2
   },
   {
-    "referrer": "lsi.uc3m.es",
+    "referrer": "Bing",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "referrer": "cn.bing.com",
     "count": 2,
     "uniques": 2
   },
@@ -26,11 +31,6 @@
   },
   {
     "referrer": "sciencedirect.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "cn.bing.com",
     "count": 1,
     "uniques": 1
   }
