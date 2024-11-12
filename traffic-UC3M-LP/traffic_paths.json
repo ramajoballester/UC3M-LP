@@ -2,8 +2,8 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 82,
-    "uniques": 51
+    "count": 80,
+    "uniques": 49
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
@@ -14,8 +14,8 @@
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
     "title": "UC3M-LP/sample/00026.jpg at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 14,
-    "uniques": 12
+    "count": 13,
+    "uniques": 11
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.json",
@@ -36,15 +36,15 @@
     "uniques": 5
   },
   {
+    "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
+    "title": "UC3M-LP/cfg at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 5,
+    "uniques": 4
+  },
+  {
     "path": "/ramajoballester/UC3M-LP/tree/main/.github/workflows",
     "title": "UC3M-LP/.github/workflows at main · ramajoballester/UC3M-LP · GitHub",
     "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
-    "title": "UC3M-LP/cfg at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 4,
     "uniques": 3
   },
   {
