@@ -1,12 +1,12 @@
 [
   {
     "referrer": "Google",
-    "count": 93,
+    "count": 90,
     "uniques": 39
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 20,
+    "count": 23,
     "uniques": 1
   },
   {
@@ -26,13 +26,13 @@
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 5,
-    "uniques": 3
+    "count": 6,
+    "uniques": 4
   },
   {
     "referrer": "github.com",
-    "count": 4,
-    "uniques": 3
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "perplexity.ai",
