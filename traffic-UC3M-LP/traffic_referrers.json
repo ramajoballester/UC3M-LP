@@ -1,12 +1,12 @@
 [
   {
     "referrer": "Google",
-    "count": 66,
+    "count": 62,
     "uniques": 31
   },
   {
     "referrer": "chatgpt.com",
-    "count": 32,
+    "count": 34,
     "uniques": 3
   },
   {
@@ -25,13 +25,13 @@
     "uniques": 3
   },
   {
+    "referrer": "lsi.uc3m.es",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "referrer": "alvaroramajo.com",
     "count": 3,
     "uniques": 1
-  },
-  {
-    "referrer": "lsi.uc3m.es",
-    "count": 2,
-    "uniques": 2
   }
 ]
