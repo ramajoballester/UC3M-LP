@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 97,
-    "uniques": 43
+    "count": 95,
+    "uniques": 42
   },
   {
     "referrer": "github.com",
@@ -11,13 +11,18 @@
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 12,
+    "count": 13,
     "uniques": 1
   },
   {
     "referrer": "lsi.uc3m.es",
     "count": 9,
     "uniques": 5
+  },
+  {
+    "referrer": "alvaroramajo.com",
+    "count": 3,
+    "uniques": 1
   },
   {
     "referrer": "sciencedirect.com",
@@ -30,22 +35,17 @@
     "uniques": 1
   },
   {
-    "referrer": "alvaroramajo.com",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "referrer": "search.brave.com",
     "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "yandex.ru",
+    "referrer": "sigma-ai.atlassian.net",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "sigma-ai.atlassian.net",
+    "referrer": "yandex.ru",
     "count": 1,
     "uniques": 1
   }
