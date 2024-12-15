@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 95,
-    "uniques": 42
+    "count": 97,
+    "uniques": 44
   },
   {
     "referrer": "github.com",
-    "count": 21,
-    "uniques": 5
+    "count": 25,
+    "uniques": 6
   },
   {
     "referrer": "statics.teams.cdn.office.net",
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 9,
-    "uniques": 5
+    "count": 8,
+    "uniques": 4
   },
   {
     "referrer": "alvaroramajo.com",
