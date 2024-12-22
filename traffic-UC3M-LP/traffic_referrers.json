@@ -1,8 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 77,
-    "uniques": 33
+    "count": 71,
+    "uniques": 32
+  },
+  {
+    "referrer": "lsi.uc3m.es",
+    "count": 16,
+    "uniques": 3
   },
   {
     "referrer": "statics.teams.cdn.office.net",
@@ -25,18 +30,13 @@
     "uniques": 1
   },
   {
-    "referrer": "lsi.uc3m.es",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "referrer": "DuckDuckGo",
     "count": 3,
     "uniques": 1
   },
   {
-    "referrer": "search.brave.com",
-    "count": 2,
+    "referrer": "sigma-ai.atlassian.net",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -45,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "sigma-ai.atlassian.net",
+    "referrer": "yandex.ru",
     "count": 1,
     "uniques": 1
   }
