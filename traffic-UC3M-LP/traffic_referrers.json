@@ -1,12 +1,22 @@
 [
   {
     "referrer": "Google",
-    "count": 59,
-    "uniques": 21
+    "count": 53,
+    "uniques": 20
+  },
+  {
+    "referrer": "search.brave.com",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "referrer": "perplexity.ai",
+    "count": 3,
+    "uniques": 1
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 5,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   }
 ]
