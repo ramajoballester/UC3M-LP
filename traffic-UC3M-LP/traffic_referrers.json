@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 65,
-    "uniques": 27
+    "count": 78,
+    "uniques": 31
   },
   {
     "referrer": "sciencedirect.com",
@@ -22,6 +22,11 @@
   {
     "referrer": "perplexity.ai",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "referrer": "Bing",
+    "count": 2,
     "uniques": 1
   },
   {
