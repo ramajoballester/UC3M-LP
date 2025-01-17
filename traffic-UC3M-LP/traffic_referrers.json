@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 99,
-    "uniques": 36
+    "count": 121,
+    "uniques": 41
   },
   {
     "referrer": "sciencedirect.com",
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 5,
-    "uniques": 5
+    "count": 4,
+    "uniques": 4
   },
   {
     "referrer": "perplexity.ai",
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 1,
+    "referrer": "overleaf.com",
+    "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "overleaf.com",
+    "referrer": "statics.teams.cdn.office.net",
     "count": 1,
     "uniques": 1
   }
