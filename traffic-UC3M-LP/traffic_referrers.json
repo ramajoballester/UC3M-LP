@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 164,
-    "uniques": 39
+    "count": 158,
+    "uniques": 35
   },
   {
     "referrer": "linkedin.com",
@@ -10,19 +10,19 @@
     "uniques": 1
   },
   {
-    "referrer": "Bing",
-    "count": 11,
-    "uniques": 3
+    "referrer": "github.com",
+    "count": 9,
+    "uniques": 5
   },
   {
-    "referrer": "github.com",
-    "count": 8,
-    "uniques": 4
+    "referrer": "Bing",
+    "count": 9,
+    "uniques": 2
   },
   {
     "referrer": "search.brave.com",
-    "count": 8,
-    "uniques": 1
+    "count": 9,
+    "uniques": 2
   },
   {
     "referrer": "lsi.uc3m.es",
