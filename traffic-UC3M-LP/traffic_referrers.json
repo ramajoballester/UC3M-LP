@@ -2,7 +2,7 @@
   {
     "referrer": "Google",
     "count": 166,
-    "uniques": 38
+    "uniques": 41
   },
   {
     "referrer": "linkedin.com",
@@ -21,23 +21,18 @@
   },
   {
     "referrer": "search.brave.com",
-    "count": 7,
+    "count": 8,
     "uniques": 2
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 6,
-    "uniques": 5
-  },
-  {
-    "referrer": "chatgpt.com",
-    "count": 2,
-    "uniques": 2
+    "count": 7,
+    "uniques": 6
   },
   {
     "referrer": "sciencedirect.com",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
     "referrer": "overleaf.com",
@@ -45,7 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "Baidu",
+    "referrer": "cn.bing.com",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
     "count": 1,
     "uniques": 1
   }
