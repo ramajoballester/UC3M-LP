@@ -1,18 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 166,
-    "uniques": 41
+    "count": 167,
+    "uniques": 44
   },
   {
     "referrer": "linkedin.com",
     "count": 13,
     "uniques": 1
-  },
-  {
-    "referrer": "github.com",
-    "count": 9,
-    "uniques": 5
   },
   {
     "referrer": "Bing",
@@ -26,8 +21,13 @@
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 7,
-    "uniques": 6
+    "count": 6,
+    "uniques": 5
+  },
+  {
+    "referrer": "github.com",
+    "count": 3,
+    "uniques": 3
   },
   {
     "referrer": "sciencedirect.com",
@@ -35,17 +35,17 @@
     "uniques": 3
   },
   {
-    "referrer": "overleaf.com",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "referrer": "cn.bing.com",
     "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "statics.teams.cdn.office.net",
+    "referrer": "Baidu",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "overleaf.com",
     "count": 1,
     "uniques": 1
   }
