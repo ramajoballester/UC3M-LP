@@ -1,12 +1,12 @@
 [
   {
     "referrer": "Google",
-    "count": 157,
+    "count": 150,
     "uniques": 43
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 72,
+    "count": 73,
     "uniques": 5
   },
   {
@@ -15,13 +15,13 @@
     "uniques": 1
   },
   {
-    "referrer": "Bing",
+    "referrer": "search.brave.com",
     "count": 9,
     "uniques": 2
   },
   {
-    "referrer": "search.brave.com",
-    "count": 8,
+    "referrer": "Bing",
+    "count": 9,
     "uniques": 2
   },
   {
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "overleaf.com",
+    "referrer": "Baidu",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "statics.teams.cdn.office.net",
+    "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   }
