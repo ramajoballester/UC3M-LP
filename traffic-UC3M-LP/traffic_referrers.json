@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 155,
-    "uniques": 53
+    "count": 151,
+    "uniques": 50
   },
   {
     "referrer": "lsi.uc3m.es",
@@ -25,12 +25,17 @@
     "uniques": 1
   },
   {
-    "referrer": "c4298iusig.feishu.cn",
-    "count": 2,
+    "referrer": "Bing",
+    "count": 3,
     "uniques": 1
   },
   {
     "referrer": "overleaf.com",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "c4298iusig.feishu.cn",
     "count": 2,
     "uniques": 1
   }
