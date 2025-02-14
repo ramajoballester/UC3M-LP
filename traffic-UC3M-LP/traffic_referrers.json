@@ -1,8 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 112,
-    "uniques": 45
+    "count": 134,
+    "uniques": 55
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 9,
+    "uniques": 4
   },
   {
     "referrer": "lsi.uc3m.es",
@@ -10,23 +15,13 @@
     "uniques": 1
   },
   {
-    "referrer": "chatgpt.com",
-    "count": 7,
-    "uniques": 3
-  },
-  {
     "referrer": "github.com",
-    "count": 7,
-    "uniques": 3
+    "count": 8,
+    "uniques": 4
   },
   {
     "referrer": "c4298iusig.feishu.cn",
     "count": 4,
-    "uniques": 1
-  },
-  {
-    "referrer": "edatos.consorciomadrono.es",
-    "count": 3,
     "uniques": 1
   },
   {
