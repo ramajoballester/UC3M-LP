@@ -1,8 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 124,
-    "uniques": 52
+    "count": 112,
+    "uniques": 47
+  },
+  {
+    "referrer": "github.com",
+    "count": 21,
+    "uniques": 4
   },
   {
     "referrer": "chatgpt.com",
@@ -15,18 +20,8 @@
     "uniques": 1
   },
   {
-    "referrer": "github.com",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "referrer": "Bing",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "referrer": "overleaf.com",
-    "count": 2,
     "uniques": 1
   },
   {
