@@ -2,26 +2,26 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 129,
-    "uniques": 83
+    "count": 128,
+    "uniques": 82
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "UC3M-LP/sample at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 22,
-    "uniques": 15
+    "count": 21,
+    "uniques": 14
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/docs",
     "title": "UC3M-LP/docs at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 14,
-    "uniques": 11
+    "count": 15,
+    "uniques": 12
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
     "title": "UC3M-LP/scripts at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 11,
-    "uniques": 9
+    "count": 12,
+    "uniques": 10
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
@@ -32,8 +32,20 @@
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/scripts/labels2yolo.py",
     "title": "UC3M-LP/scripts/labels2yolo.py at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 8,
+    "uniques": 7
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main",
+    "title": "UC3M-LP/ at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 8,
+    "uniques": 5
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
+    "title": "UC3M-LP/cfg at main · ramajoballester/UC3M-LP · GitHub",
     "count": 7,
-    "uniques": 6
+    "uniques": 7
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/docs/lp_a.jpg",
@@ -46,17 +58,5 @@
     "title": "UC3M-LP/sample/00026.jpg at main · ramajoballester/UC3M-LP · GitHub",
     "count": 6,
     "uniques": 6
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
-    "title": "UC3M-LP/cfg at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 6,
-    "uniques": 6
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/scripts/utils.py",
-    "title": "UC3M-LP/scripts/utils.py at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 6,
-    "uniques": 4
   }
 ]
