@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 128,
-    "uniques": 54
+    "count": 133,
+    "uniques": 49
   },
   {
     "referrer": "chatgpt.com",
@@ -11,8 +11,8 @@
   },
   {
     "referrer": "github.com",
-    "count": 21,
-    "uniques": 4
+    "count": 20,
+    "uniques": 3
   },
   {
     "referrer": "lsi.uc3m.es",
@@ -21,7 +21,7 @@
   },
   {
     "referrer": "sciencedirect.com",
-    "count": 7,
+    "count": 8,
     "uniques": 1
   },
   {
