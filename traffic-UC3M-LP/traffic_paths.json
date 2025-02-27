@@ -2,14 +2,14 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 121,
-    "uniques": 77
+    "count": 140,
+    "uniques": 88
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "UC3M-LP/sample at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 22,
-    "uniques": 15
+    "count": 26,
+    "uniques": 18
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/docs",
@@ -20,8 +20,8 @@
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
     "title": "UC3M-LP/scripts at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 14,
-    "uniques": 11
+    "count": 16,
+    "uniques": 12
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main",
@@ -32,31 +32,31 @@
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
     "title": "UC3M-LP/docs/dataset.png at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 10,
-    "uniques": 9
+    "count": 12,
+    "uniques": 11
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/scripts/labels2yolo.py",
     "title": "UC3M-LP/scripts/labels2yolo.py at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 10,
-    "uniques": 8
+    "count": 12,
+    "uniques": 9
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
     "title": "UC3M-LP/cfg at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 10,
+    "uniques": 10
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
+    "title": "UC3M-LP/sample/00026.jpg at main · ramajoballester/UC3M-LP · GitHub",
     "count": 9,
-    "uniques": 9
+    "uniques": 8
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/docs/lp_a.jpg",
     "title": "UC3M-LP/docs/lp_a.jpg at main · ramajoballester/UC3M-LP · GitHub",
     "count": 8,
     "uniques": 7
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/scripts/utils.py",
-    "title": "UC3M-LP/scripts/utils.py at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 7,
-    "uniques": 5
   }
 ]
