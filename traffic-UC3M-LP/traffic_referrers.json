@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 177,
-    "uniques": 54
+    "count": 160,
+    "uniques": 50
   },
   {
     "referrer": "chatgpt.com",
-    "count": 44,
-    "uniques": 10
+    "count": 34,
+    "uniques": 9
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 23,
-    "uniques": 8
+    "count": 21,
+    "uniques": 7
   },
   {
     "referrer": "c4298iusig.feishu.cn",
@@ -21,7 +21,7 @@
   },
   {
     "referrer": "sciencedirect.com",
-    "count": 14,
+    "count": 12,
     "uniques": 2
   },
   {
@@ -40,12 +40,12 @@
     "uniques": 2
   },
   {
-    "referrer": "github.com",
-    "count": 2,
-    "uniques": 2
+    "referrer": "repos.ecosyste.ms",
+    "count": 1,
+    "uniques": 1
   },
   {
-    "referrer": "repos.ecosyste.ms",
+    "referrer": "github.com",
     "count": 1,
     "uniques": 1
   }
