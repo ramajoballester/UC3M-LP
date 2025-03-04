@@ -2,17 +2,17 @@
   {
     "referrer": "Google",
     "count": 160,
-    "uniques": 50
-  },
-  {
-    "referrer": "chatgpt.com",
-    "count": 34,
-    "uniques": 9
+    "uniques": 48
   },
   {
     "referrer": "lsi.uc3m.es",
+    "count": 34,
+    "uniques": 8
+  },
+  {
+    "referrer": "chatgpt.com",
     "count": 21,
-    "uniques": 7
+    "uniques": 6
   },
   {
     "referrer": "c4298iusig.feishu.cn",
@@ -21,7 +21,7 @@
   },
   {
     "referrer": "sciencedirect.com",
-    "count": 12,
+    "count": 11,
     "uniques": 2
   },
   {
