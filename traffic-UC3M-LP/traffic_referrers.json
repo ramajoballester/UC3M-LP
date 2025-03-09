@@ -1,7 +1,7 @@
 [
   {
     "referrer": "Google",
-    "count": 159,
+    "count": 143,
     "uniques": 50
   },
   {
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "sciencedirect.com",
-    "count": 13,
-    "uniques": 4
+    "count": 12,
+    "uniques": 3
   },
   {
     "referrer": "linkedin.com",
