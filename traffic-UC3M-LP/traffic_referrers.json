@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 120,
-    "uniques": 45
+    "count": 90,
+    "uniques": 36
   },
   {
     "referrer": "lsi.uc3m.es",
@@ -15,19 +15,14 @@
     "uniques": 2
   },
   {
-    "referrer": "sciencedirect.com",
-    "count": 13,
-    "uniques": 4
-  },
-  {
-    "referrer": "linkedin.com",
-    "count": 10,
-    "uniques": 7
-  },
-  {
     "referrer": "chatgpt.com",
-    "count": 8,
-    "uniques": 4
+    "count": 7,
+    "uniques": 3
+  },
+  {
+    "referrer": "sciencedirect.com",
+    "count": 7,
+    "uniques": 3
   },
   {
     "referrer": "Bing",
@@ -40,13 +35,18 @@
     "uniques": 2
   },
   {
-    "referrer": "com.linkedin.android",
+    "referrer": "cn.bing.com",
     "count": 3,
     "uniques": 2
   },
   {
-    "referrer": "cn.bing.com",
-    "count": 3,
-    "uniques": 2
+    "referrer": "com.linkedin.android",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "selectdataset.com",
+    "count": 1,
+    "uniques": 1
   }
 ]
