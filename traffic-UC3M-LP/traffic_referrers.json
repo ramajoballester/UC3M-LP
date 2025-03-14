@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 67,
-    "uniques": 31
+    "count": 65,
+    "uniques": 30
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 40,
-    "uniques": 7
+    "count": 42,
+    "uniques": 8
+  },
+  {
+    "referrer": "sciencedirect.com",
+    "count": 13,
+    "uniques": 5
   },
   {
     "referrer": "chatgpt.com",
     "count": 13,
     "uniques": 2
-  },
-  {
-    "referrer": "sciencedirect.com",
-    "count": 10,
-    "uniques": 5
   },
   {
     "referrer": "Bing",
@@ -32,16 +32,6 @@
   {
     "referrer": "github.com",
     "count": 5,
-    "uniques": 1
-  },
-  {
-    "referrer": "c4298iusig.feishu.cn",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "com.linkedin.android",
-    "count": 1,
     "uniques": 1
   },
   {
