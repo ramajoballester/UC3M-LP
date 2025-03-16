@@ -1,13 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 73,
+    "count": 71,
     "uniques": 32
-  },
-  {
-    "referrer": "lsi.uc3m.es",
-    "count": 43,
-    "uniques": 9
   },
   {
     "referrer": "Bing",
@@ -15,9 +10,14 @@
     "uniques": 2
   },
   {
+    "referrer": "lsi.uc3m.es",
+    "count": 31,
+    "uniques": 9
+  },
+  {
     "referrer": "chatgpt.com",
-    "count": 15,
-    "uniques": 3
+    "count": 16,
+    "uniques": 4
   },
   {
     "referrer": "sciencedirect.com",
@@ -35,7 +35,17 @@
     "uniques": 3
   },
   {
+    "referrer": "con.wapice.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "referrer": "selectdataset.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   }
