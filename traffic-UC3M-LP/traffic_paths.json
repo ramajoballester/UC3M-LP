@@ -2,14 +2,14 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 109,
-    "uniques": 63
+    "count": 108,
+    "uniques": 61
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "UC3M-LP/sample at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 14,
-    "uniques": 9
+    "count": 17,
+    "uniques": 12
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
@@ -30,33 +30,33 @@
     "uniques": 1
   },
   {
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
+    "title": "UC3M-LP/sample/00026.jpg at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 7,
+    "uniques": 5
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
+    "title": "UC3M-LP/cfg at main · ramajoballester/UC3M-LP · GitHub",
+    "count": 5,
+    "uniques": 5
+  },
+  {
     "path": "/ramajoballester/UC3M-LP/tree/main/docs",
     "title": "UC3M-LP/docs at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 4,
+    "count": 5,
     "uniques": 4
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
-    "title": "UC3M-LP/sample/00026.jpg at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.json",
-    "title": "UC3M-LP/sample/00026.json at main · ramajoballester/UC3M-LP",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00427.jpg",
-    "title": "UC3M-LP/sample/00427.jpg at main · ramajoballester/UC3M-LP · GitHub",
-    "count": 4,
+    "path": "/ramajoballester/UC3M-LP/tree/main",
+    "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
+    "count": 5,
     "uniques": 3
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/cfg/UC3M-LP-lp.yaml",
     "title": "UC3M-LP/cfg/UC3M-LP-lp.yaml at main · ramajoballester/UC3M-LP",
-    "count": 4,
+    "count": 5,
     "uniques": 1
   }
 ]
