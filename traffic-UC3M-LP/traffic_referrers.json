@@ -1,23 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 52,
-    "uniques": 24
+    "count": 57,
+    "uniques": 26
   },
   {
     "referrer": "chatgpt.com",
-    "count": 35,
-    "uniques": 4
+    "count": 36,
+    "uniques": 5
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 29,
-    "uniques": 7
+    "count": 30,
+    "uniques": 8
   },
   {
     "referrer": "sciencedirect.com",
     "count": 5,
     "uniques": 3
+  },
+  {
+    "referrer": "selectdataset.com",
+    "count": 5,
+    "uniques": 1
   },
   {
     "referrer": "DuckDuckGo",
@@ -30,11 +35,6 @@
     "uniques": 3
   },
   {
-    "referrer": "Bing",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "referrer": "edatos.consorciomadrono.es",
     "count": 2,
     "uniques": 1
@@ -45,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "com.linkedin.android",
+    "referrer": "perplexity.ai",
     "count": 1,
     "uniques": 1
   }
