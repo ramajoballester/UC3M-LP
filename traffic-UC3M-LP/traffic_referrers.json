@@ -1,22 +1,22 @@
 [
   {
     "referrer": "Google",
-    "count": 57,
+    "count": 58,
     "uniques": 26
   },
   {
     "referrer": "chatgpt.com",
-    "count": 36,
-    "uniques": 5
+    "count": 42,
+    "uniques": 6
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 30,
-    "uniques": 8
+    "count": 32,
+    "uniques": 10
   },
   {
     "referrer": "sciencedirect.com",
-    "count": 5,
+    "count": 6,
     "uniques": 3
   },
   {
