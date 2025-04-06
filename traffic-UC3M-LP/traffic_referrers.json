@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 57,
-    "uniques": 25
+    "count": 56,
+    "uniques": 26
   },
   {
     "referrer": "chatgpt.com",
-    "count": 42,
-    "uniques": 6
+    "count": 43,
+    "uniques": 7
   },
   {
     "referrer": "lsi.uc3m.es",
@@ -23,6 +23,11 @@
     "referrer": "selectdataset.com",
     "count": 5,
     "uniques": 1
+  },
+  {
+    "referrer": "Bing",
+    "count": 4,
+    "uniques": 2
   },
   {
     "referrer": "DuckDuckGo",
@@ -41,11 +46,6 @@
   },
   {
     "referrer": "dec-powerpoint.officeapps.live.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "perplexity.ai",
     "count": 1,
     "uniques": 1
   }
