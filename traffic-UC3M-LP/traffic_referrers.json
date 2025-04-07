@@ -1,18 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 56,
+    "count": 59,
     "uniques": 26
   },
   {
     "referrer": "chatgpt.com",
-    "count": 43,
-    "uniques": 7
+    "count": 44,
+    "uniques": 8
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 32,
-    "uniques": 10
+    "count": 33,
+    "uniques": 11
+  },
+  {
+    "referrer": "search.brave.com",
+    "count": 10,
+    "uniques": 1
   },
   {
     "referrer": "sciencedirect.com",
@@ -25,11 +30,6 @@
     "uniques": 1
   },
   {
-    "referrer": "Bing",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "referrer": "DuckDuckGo",
     "count": 4,
     "uniques": 1
@@ -40,13 +40,13 @@
     "uniques": 3
   },
   {
-    "referrer": "edatos.consorciomadrono.es",
-    "count": 2,
+    "referrer": "Bing",
+    "count": 3,
     "uniques": 1
   },
   {
-    "referrer": "dec-powerpoint.officeapps.live.com",
-    "count": 1,
+    "referrer": "edatos.consorciomadrono.es",
+    "count": 2,
     "uniques": 1
   }
 ]
