@@ -1,12 +1,12 @@
 [
   {
     "referrer": "Google",
-    "count": 56,
-    "uniques": 26
+    "count": 60,
+    "uniques": 29
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 31,
+    "count": 20,
     "uniques": 9
   },
   {
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "chatgpt.com",
-    "count": 11,
-    "uniques": 6
+    "count": 12,
+    "uniques": 5
   },
   {
     "referrer": "sciencedirect.com",
@@ -45,8 +45,8 @@
     "uniques": 1
   },
   {
-    "referrer": "edatos.consorciomadrono.es",
+    "referrer": "perplexity.ai",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   }
 ]
