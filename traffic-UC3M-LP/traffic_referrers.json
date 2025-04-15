@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 105,
-    "uniques": 38
+    "count": 97,
+    "uniques": 35
   },
   {
     "referrer": "chatgpt.com",
-    "count": 37,
-    "uniques": 9
+    "count": 36,
+    "uniques": 8
   },
   {
     "referrer": "lsi.uc3m.es",
     "count": 15,
-    "uniques": 11
+    "uniques": 10
   },
   {
     "referrer": "search.brave.com",
@@ -30,22 +30,22 @@
     "uniques": 3
   },
   {
-    "referrer": "selectdataset.com",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "referrer": "github.com",
     "count": 3,
     "uniques": 3
   },
   {
-    "referrer": "perplexity.ai",
-    "count": 2,
-    "uniques": 2
+    "referrer": "yandex.ru",
+    "count": 1,
+    "uniques": 1
   },
   {
-    "referrer": "yandex.ru",
+    "referrer": "perplexity.ai",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "grok.com",
     "count": 1,
     "uniques": 1
   }
