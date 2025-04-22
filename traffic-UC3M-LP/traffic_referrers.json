@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 102,
-    "uniques": 36
+    "count": 95,
+    "uniques": 32
   },
   {
     "referrer": "chatgpt.com",
-    "count": 71,
-    "uniques": 10
+    "count": 73,
+    "uniques": 9
   },
   {
     "referrer": "lsi.uc3m.es",
@@ -26,18 +26,8 @@
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "yandex.ru",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "perplexity.ai",
-    "count": 1,
-    "uniques": 1
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "grok.com",
