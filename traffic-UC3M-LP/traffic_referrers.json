@@ -1,28 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 62,
+    "count": 63,
     "uniques": 34
   },
   {
+    "referrer": "lsi.uc3m.es",
+    "count": 51,
+    "uniques": 9
+  },
+  {
     "referrer": "chatgpt.com",
-    "count": 54,
+    "count": 50,
     "uniques": 7
   },
   {
-    "referrer": "lsi.uc3m.es",
-    "count": 32,
-    "uniques": 8
-  },
-  {
     "referrer": "github.com",
-    "count": 22,
-    "uniques": 3
+    "count": 21,
+    "uniques": 2
   },
   {
     "referrer": "Bing",
-    "count": 10,
-    "uniques": 4
+    "count": 9,
+    "uniques": 3
   },
   {
     "referrer": "sciencedirect.com",
@@ -37,11 +37,6 @@
   {
     "referrer": "perplexity.ai",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "grok.com",
-    "count": 1,
     "uniques": 1
   }
 ]
