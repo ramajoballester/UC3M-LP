@@ -5,14 +5,14 @@
     "uniques": 35
   },
   {
-    "referrer": "chatgpt.com",
-    "count": 57,
-    "uniques": 9
+    "referrer": "lsi.uc3m.es",
+    "count": 52,
+    "uniques": 7
   },
   {
-    "referrer": "lsi.uc3m.es",
+    "referrer": "chatgpt.com",
     "count": 51,
-    "uniques": 8
+    "uniques": 9
   },
   {
     "referrer": "github.com",
@@ -30,13 +30,13 @@
     "uniques": 1
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "referrer": "perplexity.ai",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "DuckDuckGo",
+    "count": 1,
     "uniques": 1
   }
 ]
