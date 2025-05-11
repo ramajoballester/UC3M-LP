@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 73,
-    "uniques": 37
+    "count": 72,
+    "uniques": 38
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 33,
-    "uniques": 9
+    "count": 48,
+    "uniques": 11
   },
   {
     "referrer": "chatgpt.com",
-    "count": 20,
-    "uniques": 9
+    "count": 16,
+    "uniques": 7
   },
   {
     "referrer": "search.brave.com",
@@ -21,18 +21,18 @@
   },
   {
     "referrer": "sciencedirect.com",
-    "count": 7,
+    "count": 8,
     "uniques": 2
-  },
-  {
-    "referrer": "github.com",
-    "count": 4,
-    "uniques": 4
   },
   {
     "referrer": "Bing",
     "count": 4,
     "uniques": 2
+  },
+  {
+    "referrer": "github.com",
+    "count": 3,
+    "uniques": 3
   },
   {
     "referrer": "craftworks.atlassian.net",
