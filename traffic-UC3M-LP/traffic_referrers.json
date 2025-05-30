@@ -1,23 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 91,
+    "count": 90,
     "uniques": 34
   },
   {
     "referrer": "chatgpt.com",
-    "count": 70,
-    "uniques": 10
+    "count": 76,
+    "uniques": 11
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 54,
-    "uniques": 11
+    "count": 53,
+    "uniques": 10
   },
   {
     "referrer": "github.com",
     "count": 13,
     "uniques": 6
+  },
+  {
+    "referrer": "claude.ai",
+    "count": 8,
+    "uniques": 2
   },
   {
     "referrer": "alvaroramajo.com",
@@ -31,21 +36,16 @@
   },
   {
     "referrer": "Bing",
-    "count": 3,
-    "uniques": 1
+    "count": 5,
+    "uniques": 2
   },
   {
-    "referrer": "linkedin.com",
+    "referrer": "sciencedirect.com",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "www-sciencedirect-com.unmsm.lookproxy.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "sciencedirect.com",
     "count": 1,
     "uniques": 1
   }
