@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 91,
-    "uniques": 34
+    "count": 89,
+    "uniques": 33
   },
   {
     "referrer": "chatgpt.com",
@@ -30,14 +30,14 @@
     "uniques": 2
   },
   {
-    "referrer": "search.brave.com",
-    "count": 7,
-    "uniques": 3
-  },
-  {
     "referrer": "Bing",
     "count": 5,
     "uniques": 2
+  },
+  {
+    "referrer": "search.brave.com",
+    "count": 3,
+    "uniques": 1
   },
   {
     "referrer": "sciencedirect.com",
