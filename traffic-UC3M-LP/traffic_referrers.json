@@ -1,7 +1,7 @@
 [
   {
     "referrer": "Google",
-    "count": 80,
+    "count": 81,
     "uniques": 31
   },
   {
@@ -18,11 +18,6 @@
     "referrer": "lsi.uc3m.es",
     "count": 3,
     "uniques": 2
-  },
-  {
-    "referrer": "researchgate.net",
-    "count": 2,
-    "uniques": 1
   },
   {
     "referrer": "euc-excel.officeapps.live.com",
