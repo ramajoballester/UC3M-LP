@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 66,
-    "uniques": 26
+    "count": 53,
+    "uniques": 22
   },
   {
     "referrer": "github.com",
@@ -11,13 +11,13 @@
   },
   {
     "referrer": "chatgpt.com",
-    "count": 8,
-    "uniques": 4
+    "count": 7,
+    "uniques": 3
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 3,
-    "uniques": 2
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "euc-excel.officeapps.live.com",
