@@ -1,17 +1,12 @@
 [
   {
     "referrer": "Google",
-    "count": 86,
+    "count": 77,
     "uniques": 22
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 28,
-    "uniques": 4
-  },
-  {
-    "referrer": "Bing",
-    "count": 18,
+    "count": 13,
     "uniques": 4
   },
   {
@@ -20,13 +15,18 @@
     "uniques": 4
   },
   {
-    "referrer": "paddlepaddle.github.io",
-    "count": 2,
-    "uniques": 1
+    "referrer": "github.com",
+    "count": 4,
+    "uniques": 3
   },
   {
-    "referrer": "github.com",
-    "count": 1,
+    "referrer": "Bing",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "referrer": "paddlepaddle.github.io",
+    "count": 2,
     "uniques": 1
   },
   {
