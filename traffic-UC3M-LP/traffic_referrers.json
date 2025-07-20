@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 48,
-    "uniques": 21
+    "count": 54,
+    "uniques": 23
   },
   {
     "referrer": "chatgpt.com",
@@ -10,14 +10,14 @@
     "uniques": 3
   },
   {
-    "referrer": "github.com",
+    "referrer": "lsi.uc3m.es",
     "count": 11,
-    "uniques": 7
+    "uniques": 6
   },
   {
-    "referrer": "lsi.uc3m.es",
+    "referrer": "github.com",
     "count": 10,
-    "uniques": 5
+    "uniques": 7
   },
   {
     "referrer": "sciencedirect.com",
@@ -28,11 +28,6 @@
     "referrer": "edatos.consorciomadrono.es",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "Bing",
-    "count": 1,
-    "uniques": 1
   },
   {
     "referrer": "wenxiaobai.com",
