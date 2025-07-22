@@ -1,12 +1,12 @@
 [
   {
     "referrer": "Google",
-    "count": 54,
+    "count": 51,
     "uniques": 22
   },
   {
     "referrer": "chatgpt.com",
-    "count": 16,
+    "count": 26,
     "uniques": 4
   },
   {
@@ -16,26 +16,26 @@
   },
   {
     "referrer": "sciencedirect.com",
-    "count": 7,
-    "uniques": 2
+    "count": 4,
+    "uniques": 1
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 6,
-    "uniques": 5
+    "count": 3,
+    "uniques": 3
   },
   {
     "referrer": "edatos.consorciomadrono.es",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "wenxiaobai.com",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "pdf.sciencedirectassets.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "wenxiaobai.com",
     "count": 1,
     "uniques": 1
   }
