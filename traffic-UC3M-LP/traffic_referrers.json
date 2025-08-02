@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 81,
-    "uniques": 31
+    "count": 84,
+    "uniques": 33
   },
   {
     "referrer": "chatgpt.com",
-    "count": 20,
-    "uniques": 6
+    "count": 18,
+    "uniques": 5
   },
   {
     "referrer": "github.com",
@@ -35,17 +35,17 @@
     "uniques": 1
   },
   {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "referrer": "search.brave.com",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
     "count": 1,
     "uniques": 1
   }
