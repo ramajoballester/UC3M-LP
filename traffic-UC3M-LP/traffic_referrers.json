@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 73,
-    "uniques": 29
+    "count": 80,
+    "uniques": 33
   },
   {
     "referrer": "github.com",
@@ -21,18 +21,13 @@
   },
   {
     "referrer": "sciencedirect.com",
-    "count": 6,
-    "uniques": 1
+    "count": 7,
+    "uniques": 2
   },
   {
     "referrer": "chatgpt.com",
     "count": 5,
     "uniques": 4
-  },
-  {
-    "referrer": "pdf.sciencedirectassets.com",
-    "count": 1,
-    "uniques": 1
   },
   {
     "referrer": "DuckDuckGo",
@@ -41,6 +36,11 @@
   },
   {
     "referrer": "search.brave.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "pdf.sciencedirectassets.com",
     "count": 1,
     "uniques": 1
   }
