@@ -2,7 +2,7 @@
   {
     "referrer": "Google",
     "count": 103,
-    "uniques": 32
+    "uniques": 35
   },
   {
     "referrer": "Bing",
@@ -11,8 +11,8 @@
   },
   {
     "referrer": "chatgpt.com",
-    "count": 12,
-    "uniques": 7
+    "count": 11,
+    "uniques": 6
   },
   {
     "referrer": "github.com",
@@ -21,12 +21,12 @@
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 8,
+    "count": 9,
     "uniques": 2
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 7,
+    "count": 4,
     "uniques": 2
   },
   {
@@ -45,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "sciencedirect.com",
+    "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   }
