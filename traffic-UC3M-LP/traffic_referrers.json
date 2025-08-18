@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 106,
-    "uniques": 35
+    "count": 120,
+    "uniques": 37
   },
   {
     "referrer": "Bing",
@@ -11,8 +11,8 @@
   },
   {
     "referrer": "chatgpt.com",
-    "count": 12,
-    "uniques": 7
+    "count": 11,
+    "uniques": 6
   },
   {
     "referrer": "lsi.uc3m.es",
@@ -21,7 +21,7 @@
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 4,
+    "count": 3,
     "uniques": 2
   },
   {
