@@ -69,7 +69,7 @@ If you use this dataset in your research, please cite the following paper:
 
 ## Download
 
-The dataset is available for [download](https://doi.org/10.21950/OS5W4Z).
+The dataset is available for [download](https://doi.org/10.21950/OS5W4Z). Alternative [download link](https://zenodo.org/records/17152029).
 
 
 ## Transform to YOLO format
