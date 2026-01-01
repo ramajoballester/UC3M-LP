@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "referrer": "Google",
+    "count": 48,
+    "uniques": 24
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 30,
+    "uniques": 10
+  },
+  {
+    "referrer": "lsi.uc3m.es",
+    "count": 27,
+    "uniques": 8
+  },
+  {
+    "referrer": "perplexity.ai",
+    "count": 15,
+    "uniques": 1
+  },
+  {
+    "referrer": "Bing",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "referrer": "sciencedirect.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "search.brave.com",
+    "count": 2,
+    "uniques": 2
+  }
+]
