@@ -1,17 +1,17 @@
 [
   {
     "referrer": "Google",
-    "count": 50,
-    "uniques": 24
+    "count": 43,
+    "uniques": 22
   },
   {
     "referrer": "chatgpt.com",
-    "count": 29,
-    "uniques": 9
+    "count": 30,
+    "uniques": 10
   },
   {
     "referrer": "perplexity.ai",
-    "count": 19,
+    "count": 18,
     "uniques": 1
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 4,
+    "count": 3,
     "uniques": 1
   },
   {
