@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 43,
+    "count": 45,
     "uniques": 22
   },
   {
     "referrer": "chatgpt.com",
-    "count": 30,
-    "uniques": 10
+    "count": 29,
+    "uniques": 9
   },
   {
     "referrer": "perplexity.ai",
@@ -16,18 +16,18 @@
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 11,
+    "count": 10,
     "uniques": 4
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 3,
-    "uniques": 1
   },
   {
     "referrer": "search.brave.com",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 2,
+    "uniques": 1
   },
   {
     "referrer": "sciencedirect.com",
