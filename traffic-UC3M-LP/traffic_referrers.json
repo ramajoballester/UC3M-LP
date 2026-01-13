@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 38,
+    "count": 37,
     "uniques": 21
   },
   {
     "referrer": "chatgpt.com",
-    "count": 30,
-    "uniques": 8
-  },
-  {
-    "referrer": "lsi.uc3m.es",
-    "count": 20,
-    "uniques": 10
+    "count": 25,
+    "uniques": 7
   },
   {
     "referrer": "perplexity.ai",
     "count": 20,
     "uniques": 1
+  },
+  {
+    "referrer": "lsi.uc3m.es",
+    "count": 19,
+    "uniques": 9
   },
   {
     "referrer": "edatos.consorciomadrono.es",
