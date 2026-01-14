@@ -1,7 +1,7 @@
 [
   {
     "referrer": "Google",
-    "count": 37,
+    "count": 36,
     "uniques": 21
   },
   {
@@ -25,12 +25,17 @@
     "uniques": 1
   },
   {
-    "referrer": "sciencedirect.com",
+    "referrer": "DuckDuckGo",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "referrer": "Bing",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "claude.ai",
     "count": 1,
     "uniques": 1
   },
@@ -40,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "search.brave.com",
+    "referrer": "sciencedirect.com",
     "count": 1,
     "uniques": 1
   }
