@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 36,
-    "uniques": 21
+    "count": 39,
+    "uniques": 20
   },
   {
     "referrer": "chatgpt.com",
-    "count": 25,
-    "uniques": 7
-  },
-  {
-    "referrer": "perplexity.ai",
-    "count": 20,
-    "uniques": 1
+    "count": 24,
+    "uniques": 6
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 19,
+    "count": 16,
     "uniques": 9
+  },
+  {
+    "referrer": "perplexity.ai",
+    "count": 6,
+    "uniques": 1
   },
   {
     "referrer": "edatos.consorciomadrono.es",
@@ -25,13 +25,13 @@
     "uniques": 1
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 2,
-    "uniques": 1
+    "referrer": "Bing",
+    "count": 4,
+    "uniques": 2
   },
   {
-    "referrer": "Bing",
-    "count": 1,
+    "referrer": "DuckDuckGo",
+    "count": 2,
     "uniques": 1
   },
   {
