@@ -1,15 +1,15 @@
 [
   {
     "path": "/ramajoballester/UC3M-LP",
-    "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
+    "title": "ramajoballester/UC3M-LP: set di dati di rilevamento e riconoscimento delle ta...",
     "count": 110,
-    "uniques": 66
+    "uniques": 68
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 14,
-    "uniques": 11
+    "count": 13,
+    "uniques": 10
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
@@ -20,20 +20,8 @@
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
     "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 10,
-    "uniques": 9
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
-    "title": "UC3M-LP/docs at main · ramajoballester/UC3M-LP",
-    "count": 7,
-    "uniques": 7
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
-    "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
-    "count": 7,
-    "uniques": 7
+    "count": 9,
+    "uniques": 8
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.json",
@@ -54,8 +42,20 @@
     "uniques": 4
   },
   {
+    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
+    "title": "ramajoballester/UC3M-LP: UC3M License Plate detection and recognition dataset",
+    "count": 6,
+    "uniques": 6
+  },
+  {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/01098.jpg",
     "title": "UC3M-LP/sample/01098.jpg at main · ramajoballester/UC3M-LP",
+    "count": 5,
+    "uniques": 5
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
+    "title": "UC3M-LP/docs at main · ramajoballester/UC3M-LP",
     "count": 5,
     "uniques": 5
   }
