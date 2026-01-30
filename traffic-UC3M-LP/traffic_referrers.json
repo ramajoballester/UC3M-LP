@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 134,
-    "uniques": 42
+    "count": 138,
+    "uniques": 43
   },
   {
     "referrer": "lsi.uc3m.es",
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "github.com",
-    "count": 8,
-    "uniques": 4
+    "count": 12,
+    "uniques": 5
   },
   {
     "referrer": "perplexity.ai",
@@ -25,17 +25,7 @@
     "uniques": 3
   },
   {
-    "referrer": "Bing",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "referrer": "DuckDuckGo",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "business.gemini.google",
     "count": 1,
     "uniques": 1
   },
