@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 106,
-    "uniques": 40
+    "count": 104,
+    "uniques": 36
   },
   {
     "referrer": "lsi.uc3m.es",
@@ -23,6 +23,11 @@
     "referrer": "DuckDuckGo",
     "count": 4,
     "uniques": 2
+  },
+  {
+    "referrer": "claude.ai",
+    "count": 4,
+    "uniques": 1
   },
   {
     "referrer": "perplexity.ai",
