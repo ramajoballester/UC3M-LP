@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 78,
-    "uniques": 36
+    "count": 77,
+    "uniques": 35
   },
   {
     "referrer": "chatgpt.com",
@@ -36,8 +36,8 @@
   },
   {
     "referrer": "sciencedirect.com",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "selectdataset.com",
