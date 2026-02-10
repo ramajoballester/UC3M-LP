@@ -10,6 +10,11 @@
     "uniques": 8
   },
   {
+    "referrer": "claude.ai",
+    "count": 20,
+    "uniques": 3
+  },
+  {
     "referrer": "lsi.uc3m.es",
     "count": 7,
     "uniques": 3
@@ -25,11 +30,6 @@
     "uniques": 3
   },
   {
-    "referrer": "claude.ai",
-    "count": 5,
-    "uniques": 2
-  },
-  {
     "referrer": "DuckDuckGo",
     "count": 3,
     "uniques": 1
@@ -41,11 +41,6 @@
   },
   {
     "referrer": "selectdataset.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
     "count": 1,
     "uniques": 1
   }
