@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 84,
-    "uniques": 41
+    "count": 81,
+    "uniques": 38
   },
   {
     "referrer": "claude.ai",
@@ -11,8 +11,8 @@
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 14,
-    "uniques": 7
+    "count": 13,
+    "uniques": 6
   },
   {
     "referrer": "Bing",
@@ -26,7 +26,7 @@
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 4,
+    "count": 5,
     "uniques": 3
   },
   {
@@ -35,12 +35,12 @@
     "uniques": 2
   },
   {
-    "referrer": "sciencedirect.com",
-    "count": 2,
-    "uniques": 2
+    "referrer": "DuckDuckGo",
+    "count": 1,
+    "uniques": 1
   },
   {
-    "referrer": "DuckDuckGo",
+    "referrer": "sciencedirect.com",
     "count": 1,
     "uniques": 1
   }
