@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 103,
-    "uniques": 42
+    "count": 119,
+    "uniques": 49
   },
   {
     "referrer": "chatgpt.com",
@@ -31,7 +31,7 @@
   },
   {
     "referrer": "doubao.com",
-    "count": 2,
+    "count": 3,
     "uniques": 1
   },
   {
