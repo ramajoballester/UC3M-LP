@@ -1,28 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 149,
-    "uniques": 52
+    "count": 141,
+    "uniques": 48
   },
   {
     "referrer": "chatgpt.com",
-    "count": 46,
-    "uniques": 3
+    "count": 55,
+    "uniques": 4
   },
   {
     "referrer": "Bing",
-    "count": 29,
-    "uniques": 4
+    "count": 25,
+    "uniques": 3
   },
   {
     "referrer": "search.brave.com",
     "count": 7,
     "uniques": 1
-  },
-  {
-    "referrer": "lsi.uc3m.es",
-    "count": 6,
-    "uniques": 5
   },
   {
     "referrer": "doubao.com",
@@ -33,6 +28,11 @@
     "referrer": "statics.teams.cdn.office.net",
     "count": 5,
     "uniques": 3
+  },
+  {
+    "referrer": "lsi.uc3m.es",
+    "count": 4,
+    "uniques": 4
   },
   {
     "referrer": "alvaroramajo.com",
