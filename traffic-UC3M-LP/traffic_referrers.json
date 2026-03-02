@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 153,
-    "uniques": 53
+    "count": 148,
+    "uniques": 52
   },
   {
     "referrer": "chatgpt.com",
@@ -25,6 +25,11 @@
     "uniques": 1
   },
   {
+    "referrer": "lsi.uc3m.es",
+    "count": 5,
+    "uniques": 4
+  },
+  {
     "referrer": "statics.teams.cdn.office.net",
     "count": 5,
     "uniques": 3
@@ -33,11 +38,6 @@
     "referrer": "sciencedirect.com",
     "count": 5,
     "uniques": 1
-  },
-  {
-    "referrer": "lsi.uc3m.es",
-    "count": 4,
-    "uniques": 4
   },
   {
     "referrer": "alvaroramajo.com",
