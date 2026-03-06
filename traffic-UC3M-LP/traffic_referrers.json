@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 179,
-    "uniques": 57
+    "count": 183,
+    "uniques": 62
   },
   {
     "referrer": "chatgpt.com",
-    "count": 57,
-    "uniques": 6
+    "count": 75,
+    "uniques": 9
   },
   {
     "referrer": "Bing",
@@ -18,16 +18,6 @@
     "referrer": "lsi.uc3m.es",
     "count": 15,
     "uniques": 7
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 7,
-    "uniques": 4
-  },
-  {
-    "referrer": "search.brave.com",
-    "count": 7,
-    "uniques": 1
   },
   {
     "referrer": "DuckDuckGo",
@@ -45,8 +35,18 @@
     "uniques": 1
   },
   {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "referrer": "alvaroramajo.com",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "referrer": "chat.qwen.ai",
+    "count": 1,
     "uniques": 1
   }
 ]
