@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 182,
-    "uniques": 60
+    "count": 174,
+    "uniques": 58
   },
   {
     "referrer": "chatgpt.com",
-    "count": 80,
-    "uniques": 10
+    "count": 79,
+    "uniques": 9
   },
   {
     "referrer": "Bing",
@@ -16,8 +16,13 @@
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 15,
-    "uniques": 7
+    "count": 24,
+    "uniques": 8
+  },
+  {
+    "referrer": "github.com",
+    "count": 11,
+    "uniques": 4
   },
   {
     "referrer": "DuckDuckGo",
@@ -42,11 +47,6 @@
   {
     "referrer": "alvaroramajo.com",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 2,
     "uniques": 1
   }
 ]
