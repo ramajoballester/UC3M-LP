@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 173,
-    "uniques": 56
+    "count": 158,
+    "uniques": 54
   },
   {
     "referrer": "chatgpt.com",
-    "count": 64,
-    "uniques": 8
+    "count": 34,
+    "uniques": 7
   },
   {
     "referrer": "Bing",
@@ -30,11 +30,6 @@
     "uniques": 2
   },
   {
-    "referrer": "doubao.com",
-    "count": 6,
-    "uniques": 1
-  },
-  {
     "referrer": "yandex.ru",
     "count": 6,
     "uniques": 1
@@ -42,6 +37,11 @@
   {
     "referrer": "sciencedirect.com",
     "count": 5,
+    "uniques": 1
+  },
+  {
+    "referrer": "doubao.com",
+    "count": 4,
     "uniques": 1
   },
   {
