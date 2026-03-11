@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 158,
-    "uniques": 54
+    "count": 140,
+    "uniques": 47
   },
   {
     "referrer": "chatgpt.com",
-    "count": 34,
-    "uniques": 7
+    "count": 36,
+    "uniques": 8
+  },
+  {
+    "referrer": "lsi.uc3m.es",
+    "count": 28,
+    "uniques": 11
   },
   {
     "referrer": "Bing",
     "count": 25,
     "uniques": 3
-  },
-  {
-    "referrer": "lsi.uc3m.es",
-    "count": 23,
-    "uniques": 7
   },
   {
     "referrer": "github.com",
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "doubao.com",
-    "count": 4,
+    "referrer": "alvaroramajo.com",
+    "count": 3,
     "uniques": 1
   },
   {
-    "referrer": "alvaroramajo.com",
+    "referrer": "doubao.com",
     "count": 3,
     "uniques": 1
   }
