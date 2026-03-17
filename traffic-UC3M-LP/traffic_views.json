@@ -3198,11 +3198,6 @@
       "uniques": 4
     },
     {
-      "timestamp": "2026-03-02T00:00:00Z",
-      "count": 41,
-      "uniques": 11
-    },
-    {
       "timestamp": "2026-03-01T00:00:00Z",
       "count": 16,
       "uniques": 7
@@ -3211,6 +3206,11 @@
       "timestamp": "2026-03-03T00:00:00Z",
       "count": 24,
       "uniques": 10
+    },
+    {
+      "timestamp": "2026-03-02T00:00:00Z",
+      "count": 41,
+      "uniques": 11
     },
     {
       "timestamp": "2026-03-04T00:00:00Z",
@@ -3266,6 +3266,11 @@
       "timestamp": "2026-03-14T00:00:00Z",
       "count": 5,
       "uniques": 3
+    },
+    {
+      "timestamp": "2026-03-15T00:00:00Z",
+      "count": 0,
+      "uniques": 0
     }
   ]
 }
