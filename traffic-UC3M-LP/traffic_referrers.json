@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 41,
-    "uniques": 18
+    "count": 37,
+    "uniques": 15
   },
   {
     "referrer": "search.brave.com",
@@ -11,13 +11,8 @@
   },
   {
     "referrer": "chatgpt.com",
-    "count": 16,
+    "count": 15,
     "uniques": 6
-  },
-  {
-    "referrer": "lsi.uc3m.es",
-    "count": 10,
-    "uniques": 9
   },
   {
     "referrer": "claude.ai",
@@ -25,9 +20,14 @@
     "uniques": 2
   },
   {
+    "referrer": "lsi.uc3m.es",
+    "count": 5,
+    "uniques": 5
+  },
+  {
     "referrer": "Bing",
-    "count": 6,
-    "uniques": 4
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "selectdataset.com",
