@@ -1,12 +1,12 @@
 [
   {
     "referrer": "Google",
-    "count": 123,
-    "uniques": 35
+    "count": 115,
+    "uniques": 32
   },
   {
     "referrer": "chatgpt.com",
-    "count": 13,
+    "count": 14,
     "uniques": 4
   },
   {
@@ -15,19 +15,19 @@
     "uniques": 2
   },
   {
-    "referrer": "lsi.uc3m.es",
-    "count": 7,
-    "uniques": 4
-  },
-  {
     "referrer": "search.brave.com",
     "count": 7,
     "uniques": 1
   },
   {
-    "referrer": "sciencedirect.com",
-    "count": 3,
-    "uniques": 1
+    "referrer": "github.com",
+    "count": 6,
+    "uniques": 4
+  },
+  {
+    "referrer": "lsi.uc3m.es",
+    "count": 6,
+    "uniques": 3
   },
   {
     "referrer": "Bing",
@@ -35,17 +35,17 @@
     "uniques": 2
   },
   {
-    "referrer": "github.com",
+    "referrer": "claude.ai",
     "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "DuckDuckGo",
-    "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "doubao.com",
+    "referrer": "pdf.sciencedirectassets.com",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   }
