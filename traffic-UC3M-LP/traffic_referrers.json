@@ -1,7 +1,7 @@
 [
   {
     "referrer": "Google",
-    "count": 72,
+    "count": 66,
     "uniques": 32
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "referrer": "chatgpt.com",
-    "count": 11,
+    "count": 10,
     "uniques": 2
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 3,
+    "count": 4,
     "uniques": 2
   },
   {
