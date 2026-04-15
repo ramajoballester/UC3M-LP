@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 66,
-    "uniques": 30
+    "count": 68,
+    "uniques": 27
   },
   {
     "referrer": "github.com",
@@ -11,13 +11,13 @@
   },
   {
     "referrer": "chatgpt.com",
-    "count": 9,
+    "count": 7,
     "uniques": 2
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 8,
-    "uniques": 3
+    "count": 7,
+    "uniques": 2
   },
   {
     "referrer": "mi.feishu.cn",
@@ -31,8 +31,13 @@
   },
   {
     "referrer": "Bing",
-    "count": 2,
+    "count": 3,
     "uniques": 2
+  },
+  {
+    "referrer": "ssu.factchat.bot",
+    "count": 3,
+    "uniques": 1
   },
   {
     "referrer": "claude.ai",
@@ -42,11 +47,6 @@
   {
     "referrer": "pdf.sciencedirectassets.com",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "doubao.com",
-    "count": 1,
     "uniques": 1
   }
 ]
