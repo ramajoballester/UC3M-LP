@@ -2,7 +2,7 @@
   {
     "referrer": "Google",
     "count": 67,
-    "uniques": 27
+    "uniques": 28
   },
   {
     "referrer": "github.com",
@@ -10,18 +10,18 @@
     "uniques": 8
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 7,
+    "referrer": "lsi.uc3m.es",
+    "count": 8,
     "uniques": 3
   },
   {
     "referrer": "chatgpt.com",
-    "count": 7,
+    "count": 6,
     "uniques": 3
   },
   {
-    "referrer": "lsi.uc3m.es",
-    "count": 7,
+    "referrer": "DuckDuckGo",
+    "count": 6,
     "uniques": 2
   },
   {
@@ -30,7 +30,7 @@
     "uniques": 1
   },
   {
-    "referrer": "Bing",
+    "referrer": "claude.ai",
     "count": 3,
     "uniques": 2
   },
@@ -40,7 +40,7 @@
     "uniques": 1
   },
   {
-    "referrer": "claude.ai",
+    "referrer": "Bing",
     "count": 2,
     "uniques": 1
   },
