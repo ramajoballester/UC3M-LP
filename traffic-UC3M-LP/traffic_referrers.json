@@ -1,27 +1,27 @@
 [
   {
     "referrer": "Google",
-    "count": 67,
-    "uniques": 28
+    "count": 84,
+    "uniques": 31
   },
   {
     "referrer": "github.com",
-    "count": 12,
-    "uniques": 8
+    "count": 11,
+    "uniques": 7
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 8,
-    "uniques": 3
+    "count": 9,
+    "uniques": 4
   },
   {
     "referrer": "chatgpt.com",
-    "count": 6,
-    "uniques": 3
+    "count": 7,
+    "uniques": 4
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 6,
+    "count": 7,
     "uniques": 2
   },
   {
