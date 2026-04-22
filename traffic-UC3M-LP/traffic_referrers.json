@@ -2,7 +2,7 @@
   {
     "referrer": "Google",
     "count": 88,
-    "uniques": 32
+    "uniques": 31
   },
   {
     "referrer": "github.com",
@@ -30,6 +30,11 @@
     "uniques": 4
   },
   {
+    "referrer": "perplexity.ai",
+    "count": 5,
+    "uniques": 1
+  },
+  {
     "referrer": "claude.ai",
     "count": 4,
     "uniques": 3
@@ -42,11 +47,6 @@
   {
     "referrer": "mi.feishu.cn",
     "count": 4,
-    "uniques": 1
-  },
-  {
-    "referrer": "ssu.factchat.bot",
-    "count": 3,
     "uniques": 1
   }
 ]
