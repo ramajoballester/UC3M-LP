@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 109,
-    "uniques": 40
+    "count": 108,
+    "uniques": 42
   },
   {
     "referrer": "Bing",
-    "count": 17,
-    "uniques": 3
+    "count": 21,
+    "uniques": 5
   },
   {
     "referrer": "github.com",
@@ -15,7 +15,17 @@
     "uniques": 4
   },
   {
+    "referrer": "chatgpt.com",
+    "count": 8,
+    "uniques": 8
+  },
+  {
     "referrer": "perplexity.ai",
+    "count": 8,
+    "uniques": 2
+  },
+  {
+    "referrer": "search.brave.com",
     "count": 8,
     "uniques": 2
   },
@@ -25,28 +35,18 @@
     "uniques": 3
   },
   {
-    "referrer": "search.brave.com",
-    "count": 7,
+    "referrer": "chat.mistral.ai",
+    "count": 3,
     "uniques": 1
   },
   {
-    "referrer": "chatgpt.com",
-    "count": 6,
-    "uniques": 6
+    "referrer": "lsi.uc3m.es",
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "referrer": "mi.feishu.cn",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "referrer": "chat.mistral.ai",
-    "count": 3,
+    "count": 1,
     "uniques": 1
   }
 ]
