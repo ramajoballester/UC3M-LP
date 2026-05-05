@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 91,
-    "uniques": 42
+    "count": 95,
+    "uniques": 48
   },
   {
     "referrer": "Bing",
@@ -16,18 +16,18 @@
   },
   {
     "referrer": "chatgpt.com",
-    "count": 8,
+    "count": 9,
     "uniques": 8
   },
   {
-    "referrer": "claude.ai",
-    "count": 6,
-    "uniques": 2
+    "referrer": "github.com",
+    "count": 5,
+    "uniques": 5
   },
   {
-    "referrer": "github.com",
-    "count": 4,
-    "uniques": 4
+    "referrer": "claude.ai",
+    "count": 5,
+    "uniques": 1
   },
   {
     "referrer": "chat.mistral.ai",
