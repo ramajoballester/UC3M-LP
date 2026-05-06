@@ -1,18 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 95,
-    "uniques": 48
+    "count": 116,
+    "uniques": 50
   },
   {
     "referrer": "Bing",
     "count": 19,
     "uniques": 4
-  },
-  {
-    "referrer": "perplexity.ai",
-    "count": 10,
-    "uniques": 3
   },
   {
     "referrer": "chatgpt.com",
@@ -25,13 +20,13 @@
     "uniques": 5
   },
   {
-    "referrer": "claude.ai",
+    "referrer": "perplexity.ai",
     "count": 5,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "referrer": "chat.mistral.ai",
-    "count": 3,
+    "referrer": "claude.ai",
+    "count": 5,
     "uniques": 1
   },
   {
