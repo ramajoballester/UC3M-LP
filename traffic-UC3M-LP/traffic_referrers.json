@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 121,
-    "uniques": 46
+    "count": 109,
+    "uniques": 47
   },
   {
     "referrer": "chatgpt.com",
@@ -26,16 +26,16 @@
   },
   {
     "referrer": "claude.ai",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "kagi.com",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "sciencedirect.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "kagi.com",
     "count": 1,
     "uniques": 1
   },
