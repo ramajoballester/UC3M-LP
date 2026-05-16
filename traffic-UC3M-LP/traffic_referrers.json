@@ -1,8 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 95,
-    "uniques": 39
+    "count": 92,
+    "uniques": 38
+  },
+  {
+    "referrer": "lsi.uc3m.es",
+    "count": 11,
+    "uniques": 3
   },
   {
     "referrer": "github.com",
@@ -15,19 +20,9 @@
     "uniques": 2
   },
   {
-    "referrer": "lsi.uc3m.es",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "referrer": "claude.ai",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "perplexity.ai",
-    "count": 2,
-    "uniques": 1
   },
   {
     "referrer": "kagi.com",
@@ -35,7 +30,17 @@
     "uniques": 1
   },
   {
+    "referrer": "privacywall.org",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "referrer": "sciencedirect.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "selectdataset.com",
     "count": 1,
     "uniques": 1
   }
