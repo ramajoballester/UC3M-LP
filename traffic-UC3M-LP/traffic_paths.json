@@ -2,38 +2,26 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "Overview",
-    "count": 70,
-    "uniques": 57
+    "count": 64,
+    "uniques": 55
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "/tree/main/sample",
-    "count": 13,
-    "uniques": 9
+    "count": 11,
+    "uniques": 8
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
     "title": "/tree/main/scripts",
-    "count": 9,
-    "uniques": 9
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
-    "title": "/tree/main/docs",
     "count": 8,
-    "uniques": 5
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/01098.jpg",
-    "title": "/blob/main/sample/01098.jpg",
-    "count": 7,
-    "uniques": 6
+    "uniques": 8
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main",
     "title": "/tree/main",
-    "count": 7,
-    "uniques": 2
+    "count": 8,
+    "uniques": 3
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
@@ -42,8 +30,20 @@
     "uniques": 6
   },
   {
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/01098.jpg",
+    "title": "/blob/main/sample/01098.jpg",
+    "count": 6,
+    "uniques": 5
+  },
+  {
     "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
     "title": "/tree/main/cfg",
+    "count": 6,
+    "uniques": 5
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
+    "title": "/tree/main/docs",
     "count": 6,
     "uniques": 5
   },
@@ -54,9 +54,9 @@
     "uniques": 5
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
-    "title": "/blob/main/docs/dataset.png",
-    "count": 4,
-    "uniques": 4
+    "path": "/ramajoballester/UC3M-LP/blob/main/docs/lp_a.jpg",
+    "title": "/blob/main/docs/lp_a.jpg",
+    "count": 5,
+    "uniques": 3
   }
 ]
