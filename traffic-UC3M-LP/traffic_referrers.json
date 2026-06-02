@@ -1,13 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 39,
-    "uniques": 16
-  },
-  {
-    "referrer": "search.brave.com",
-    "count": 15,
-    "uniques": 3
+    "count": 36,
+    "uniques": 19
   },
   {
     "referrer": "lsi.uc3m.es",
@@ -15,8 +10,18 @@
     "uniques": 2
   },
   {
+    "referrer": "search.brave.com",
+    "count": 6,
+    "uniques": 2
+  },
+  {
     "referrer": "Bing",
     "count": 5,
+    "uniques": 1
+  },
+  {
+    "referrer": "claude.ai",
+    "count": 3,
     "uniques": 1
   },
   {

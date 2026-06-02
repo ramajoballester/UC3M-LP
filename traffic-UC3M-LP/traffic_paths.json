@@ -2,8 +2,8 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "Overview",
-    "count": 56,
-    "uniques": 36
+    "count": 62,
+    "uniques": 39
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
@@ -12,39 +12,27 @@
     "uniques": 9
   },
   {
+    "path": "/ramajoballester/UC3M-LP/tree/main",
+    "title": "/tree/main",
+    "count": 9,
+    "uniques": 6
+  },
+  {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
     "title": "/blob/main/sample/00026.jpg",
     "count": 6,
     "uniques": 6
   },
   {
-    "path": "/ramajoballester/UC3M-LP/tree/main",
-    "title": "/tree/main",
-    "count": 6,
-    "uniques": 4
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.json",
-    "title": "/blob/main/sample/00026.json",
-    "count": 5,
-    "uniques": 4
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
-    "title": "/tree/main/scripts",
+    "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
+    "title": "/blob/main/docs/dataset.png",
     "count": 4,
     "uniques": 4
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
-    "title": "/blob/main/docs/dataset.png",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00064.jpg",
-    "title": "/blob/main/sample/00064.jpg",
-    "count": 3,
+    "path": "/ramajoballester/UC3M-LP/blob/main/docs/lp_a.jpg",
+    "title": "/blob/main/docs/lp_a.jpg",
+    "count": 4,
     "uniques": 3
   },
   {
@@ -54,8 +42,20 @@
     "uniques": 3
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/docs/lp_a.jpg",
-    "title": "/blob/main/docs/lp_a.jpg",
+    "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
+    "title": "/tree/main/scripts",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.json",
+    "title": "/blob/main/sample/00026.json",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
+    "title": "/tree/main/cfg",
     "count": 3,
     "uniques": 2
   }
