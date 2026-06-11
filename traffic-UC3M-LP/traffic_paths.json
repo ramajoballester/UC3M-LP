@@ -2,20 +2,26 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "Overview",
-    "count": 59,
+    "count": 58,
     "uniques": 40
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main/sample",
-    "title": "/tree/main/sample",
-    "count": 7,
-    "uniques": 6
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main",
     "title": "/tree/main",
-    "count": 7,
-    "uniques": 4
+    "count": 9,
+    "uniques": 5
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/sample",
+    "title": "/tree/main/sample",
+    "count": 8,
+    "uniques": 7
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
+    "title": "/blob/main/sample/00026.jpg",
+    "count": 5,
+    "uniques": 5
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
@@ -30,14 +36,8 @@
     "uniques": 4
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
-    "title": "/blob/main/sample/00026.jpg",
-    "count": 4,
-    "uniques": 4
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
-    "title": "/tree/main/scripts",
+    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
+    "title": "/tree/main/docs",
     "count": 3,
     "uniques": 3
   },
@@ -48,15 +48,15 @@
     "uniques": 2
   },
   {
-    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
-    "title": "/tree/main/docs",
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00427.json",
+    "title": "/blob/main/sample/00427.json",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/.github/workflows/traffic.yml",
-    "title": "/blob/main/.github/workflows/traffic.yml",
-    "count": 1,
-    "uniques": 1
+    "path": "/ramajoballester/UC3M-LP/tree/main/.github/workflows",
+    "title": "/tree/main/.github/workflows",
+    "count": 2,
+    "uniques": 2
   }
 ]
