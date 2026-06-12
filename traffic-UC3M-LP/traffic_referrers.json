@@ -1,13 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 43,
-    "uniques": 24
-  },
-  {
-    "referrer": "lsi.uc3m.es",
-    "count": 10,
-    "uniques": 3
+    "count": 65,
+    "uniques": 31
   },
   {
     "referrer": "Bing",
@@ -15,7 +10,7 @@
     "uniques": 1
   },
   {
-    "referrer": "sciencedirect.com",
+    "referrer": "lsi.uc3m.es",
     "count": 3,
     "uniques": 2
   },
@@ -31,6 +26,11 @@
   },
   {
     "referrer": "github.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "sciencedirect.com",
     "count": 1,
     "uniques": 1
   }
