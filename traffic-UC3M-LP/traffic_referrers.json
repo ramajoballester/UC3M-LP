@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 85,
-    "uniques": 25
+    "count": 90,
+    "uniques": 26
   },
   {
     "referrer": "github.com",
@@ -20,23 +20,18 @@
     "uniques": 3
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 3,
-    "uniques": 1
+    "referrer": "chatgpt.com",
+    "count": 4,
+    "uniques": 2
   },
   {
-    "referrer": "chatgpt.com",
-    "count": 3,
-    "uniques": 1
+    "referrer": "search.brave.com",
+    "count": 4,
+    "uniques": 2
   },
   {
     "referrer": "ai.kmitl.ac.th",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "search.brave.com",
-    "count": 1,
     "uniques": 1
   },
   {
