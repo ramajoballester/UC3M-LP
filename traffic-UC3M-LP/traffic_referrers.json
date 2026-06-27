@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 110,
-    "uniques": 28
+    "count": 117,
+    "uniques": 32
   },
   {
     "referrer": "github.com",
@@ -15,11 +15,6 @@
     "uniques": 2
   },
   {
-    "referrer": "chatgpt.com",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "referrer": "search.brave.com",
     "count": 4,
     "uniques": 2
@@ -27,6 +22,11 @@
   {
     "referrer": "ai.kmitl.ac.th",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 1,
     "uniques": 1
   },
   {
