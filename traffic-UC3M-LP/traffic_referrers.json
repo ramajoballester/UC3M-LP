@@ -1,26 +1,21 @@
 [
   {
     "referrer": "Google",
-    "count": 90,
-    "uniques": 31
-  },
-  {
-    "referrer": "github.com",
-    "count": 11,
-    "uniques": 2
-  },
-  {
-    "referrer": "sciencedirect.com",
-    "count": 9,
-    "uniques": 2
+    "count": 93,
+    "uniques": 32
   },
   {
     "referrer": "search.brave.com",
-    "count": 4,
-    "uniques": 2
+    "count": 3,
+    "uniques": 1
   },
   {
     "referrer": "ai.kmitl.ac.th",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "sciencedirect.com",
     "count": 2,
     "uniques": 1
   },
@@ -30,12 +25,12 @@
     "uniques": 1
   },
   {
-    "referrer": "lsi.uc3m.es",
+    "referrer": "github.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "trello.com",
+    "referrer": "lsi.uc3m.es",
     "count": 1,
     "uniques": 1
   }
