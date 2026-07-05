@@ -2,32 +2,20 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "Overview",
-    "count": 69,
-    "uniques": 42
+    "count": 63,
+    "uniques": 40
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "/tree/main/sample",
-    "count": 13,
-    "uniques": 9
+    "count": 10,
+    "uniques": 8
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main",
     "title": "/tree/main",
-    "count": 7,
+    "count": 6,
     "uniques": 3
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
-    "title": "/blob/main/sample/00026.jpg",
-    "count": 5,
-    "uniques": 5
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/LICENSE",
-    "title": "/blob/main/LICENSE",
-    "count": 5,
-    "uniques": 4
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
@@ -36,10 +24,22 @@
     "uniques": 4
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/01098.jpg",
-    "title": "/blob/main/sample/01098.jpg",
+    "path": "/ramajoballester/UC3M-LP/blob/main/LICENSE",
+    "title": "/blob/main/LICENSE",
     "count": 4,
     "uniques": 4
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
+    "title": "/blob/main/sample/00026.jpg",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/01098.jpg",
+    "title": "/blob/main/sample/01098.jpg",
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
@@ -48,14 +48,14 @@
     "uniques": 3
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.json",
-    "title": "/blob/main/sample/00026.json",
-    "count": 3,
+    "path": "/ramajoballester/UC3M-LP/blob/main/docs/lp_a.jpg",
+    "title": "/blob/main/docs/lp_a.jpg",
+    "count": 2,
     "uniques": 2
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/docs/lp_a.jpg",
-    "title": "/blob/main/docs/lp_a.jpg",
+    "path": "/ramajoballester/UC3M-LP/blob/main/docs/lp_b.png",
+    "title": "/blob/main/docs/lp_b.png",
     "count": 2,
     "uniques": 2
   }

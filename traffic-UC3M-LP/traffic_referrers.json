@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 91,
-    "uniques": 34
+    "count": 72,
+    "uniques": 33
   },
   {
     "referrer": "Bing",
@@ -15,12 +15,7 @@
     "uniques": 1
   },
   {
-    "referrer": "sciencedirect.com",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "github.com",
+    "referrer": "claude.ai",
     "count": 1,
     "uniques": 1
   },
