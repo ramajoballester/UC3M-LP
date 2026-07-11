@@ -2,32 +2,20 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "Overview",
-    "count": 46,
-    "uniques": 33
+    "count": 44,
+    "uniques": 31
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "/tree/main/sample",
-    "count": 9,
-    "uniques": 7
+    "count": 8,
+    "uniques": 6
   },
   {
-    "path": "/ramajoballester/UC3M-LP/tree/main",
-    "title": "/tree/main",
-    "count": 6,
-    "uniques": 3
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/01098.jpg",
-    "title": "/blob/main/sample/01098.jpg",
+    "path": "/ramajoballester/UC3M-LP/blob/main/LICENSE",
+    "title": "/blob/main/LICENSE",
     "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
-    "title": "/tree/main/scripts",
-    "count": 3,
-    "uniques": 3
+    "uniques": 2
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
@@ -36,9 +24,9 @@
     "uniques": 2
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/LICENSE",
-    "title": "/blob/main/LICENSE",
-    "count": 2,
+    "path": "/ramajoballester/UC3M-LP/tree/main",
+    "title": "/tree/main",
+    "count": 3,
     "uniques": 2
   },
   {
@@ -48,14 +36,26 @@
     "uniques": 2
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
-    "title": "/blob/main/sample/00026.jpg",
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00064.jpg",
+    "title": "/blob/main/sample/00064.jpg",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00064.jpg",
-    "title": "/blob/main/sample/00064.jpg",
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00427.jpg",
+    "title": "/blob/main/sample/00427.jpg",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/01098.jpg",
+    "title": "/blob/main/sample/01098.jpg",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
+    "title": "/tree/main/docs",
     "count": 2,
     "uniques": 2
   }
