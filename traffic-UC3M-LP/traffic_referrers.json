@@ -1,11 +1,16 @@
 [
   {
     "referrer": "Google",
-    "count": 40,
+    "count": 39,
     "uniques": 20
   },
   {
     "referrer": "Bing",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "referrer": "app.clickup.com",
     "count": 6,
     "uniques": 1
   },
