@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 59,
-    "uniques": 22
+    "count": 60,
+    "uniques": 20
   },
   {
     "referrer": "app.clickup.com",
@@ -10,14 +10,14 @@
     "uniques": 1
   },
   {
-    "referrer": "search.brave.com",
+    "referrer": "claude.ai",
     "count": 5,
     "uniques": 2
   },
   {
-    "referrer": "claude.ai",
-    "count": 1,
-    "uniques": 1
+    "referrer": "search.brave.com",
+    "count": 5,
+    "uniques": 2
   },
   {
     "referrer": "github.com",
