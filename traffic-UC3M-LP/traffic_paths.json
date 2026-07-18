@@ -2,14 +2,8 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "Overview",
-    "count": 35,
-    "uniques": 28
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main/sample",
-    "title": "/tree/main/sample",
-    "count": 9,
-    "uniques": 9
+    "count": 32,
+    "uniques": 25
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
@@ -18,20 +12,26 @@
     "uniques": 7
   },
   {
-    "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
-    "title": "/tree/main/cfg",
-    "count": 4,
-    "uniques": 4
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
-    "title": "/tree/main/docs",
-    "count": 4,
-    "uniques": 4
+    "path": "/ramajoballester/UC3M-LP/tree/main/sample",
+    "title": "/tree/main/sample",
+    "count": 8,
+    "uniques": 8
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
     "title": "/blob/main/docs/dataset.png",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
+    "title": "/tree/main/cfg",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
+    "title": "/tree/main/docs",
     "count": 3,
     "uniques": 3
   },
@@ -42,14 +42,14 @@
     "uniques": 2
   },
   {
-    "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
-    "title": "/tree/main/scripts",
-    "count": 3,
+    "path": "/ramajoballester/UC3M-LP/blob/main/LICENSE",
+    "title": "/blob/main/LICENSE",
+    "count": 2,
     "uniques": 2
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/LICENSE",
-    "title": "/blob/main/LICENSE",
+    "path": "/ramajoballester/UC3M-LP/blob/main/cfg/UC3M-LP-lp.yaml",
+    "title": "/blob/main/cfg/UC3M-LP-lp.yaml",
     "count": 2,
     "uniques": 2
   },
