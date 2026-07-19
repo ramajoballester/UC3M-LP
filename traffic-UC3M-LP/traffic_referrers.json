@@ -10,14 +10,14 @@
     "uniques": 1
   },
   {
-    "referrer": "claude.ai",
+    "referrer": "search.brave.com",
     "count": 5,
     "uniques": 2
   },
   {
-    "referrer": "search.brave.com",
-    "count": 5,
-    "uniques": 2
+    "referrer": "claude.ai",
+    "count": 4,
+    "uniques": 1
   },
   {
     "referrer": "github.com",
