@@ -2,8 +2,14 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "Overview",
-    "count": 48,
-    "uniques": 34
+    "count": 56,
+    "uniques": 35
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/sample",
+    "title": "/tree/main/sample",
+    "count": 13,
+    "uniques": 10
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
@@ -12,22 +18,34 @@
     "uniques": 8
   },
   {
-    "path": "/ramajoballester/UC3M-LP/tree/main/sample",
-    "title": "/tree/main/sample",
-    "count": 10,
-    "uniques": 8
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
-    "title": "/blob/main/docs/dataset.png",
-    "count": 4,
+    "path": "/ramajoballester/UC3M-LP/tree/main",
+    "title": "/tree/main",
+    "count": 7,
     "uniques": 4
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/docs",
     "title": "/tree/main/docs",
+    "count": 6,
+    "uniques": 5
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
+    "title": "/blob/main/docs/dataset.png",
+    "count": 5,
+    "uniques": 5
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
+    "title": "/tree/main/cfg",
     "count": 4,
     "uniques": 4
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/.github",
+    "title": "/tree/main/.github",
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.json",
@@ -36,27 +54,9 @@
     "uniques": 3
   },
   {
-    "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
-    "title": "/tree/main/cfg",
+    "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
+    "title": "/tree/main/scripts",
     "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/LICENSE",
-    "title": "/blob/main/LICENSE",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/cfg/UC3M-LP-lp.yaml",
-    "title": "/blob/main/cfg/UC3M-LP-lp.yaml",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main",
-    "title": "/tree/main",
-    "count": 2,
     "uniques": 2
   }
 ]
