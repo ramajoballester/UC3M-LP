@@ -2,14 +2,14 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "Overview",
-    "count": 92,
-    "uniques": 46
+    "count": 95,
+    "uniques": 45
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "/tree/main/sample",
-    "count": 11,
-    "uniques": 8
+    "count": 12,
+    "uniques": 9
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main",
@@ -42,6 +42,12 @@
     "uniques": 3
   },
   {
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
+    "title": "/blob/main/sample/00026.jpg",
+    "count": 4,
+    "uniques": 3
+  },
+  {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.json",
     "title": "/blob/main/sample/00026.json",
     "count": 3,
@@ -52,11 +58,5 @@
     "title": "/blob/main/sample/00427.jpg",
     "count": 3,
     "uniques": 3
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
-    "title": "/blob/main/sample/00026.jpg",
-    "count": 3,
-    "uniques": 2
   }
 ]
