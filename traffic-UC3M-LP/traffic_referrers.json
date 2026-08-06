@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 85,
-    "uniques": 25
+    "count": 83,
+    "uniques": 24
   },
   {
     "referrer": "chatgpt.com",
@@ -31,7 +31,7 @@
   },
   {
     "referrer": "teams.public.onecdn.static.microsoft",
-    "count": 3,
+    "count": 4,
     "uniques": 2
   },
   {
