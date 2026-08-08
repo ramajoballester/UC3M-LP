@@ -1,16 +1,16 @@
 [
   {
     "referrer": "Google",
-    "count": 107,
-    "uniques": 25
-  },
-  {
-    "referrer": "chatgpt.com",
-    "count": 14,
-    "uniques": 3
+    "count": 109,
+    "uniques": 30
   },
   {
     "referrer": "edatos.consorciomadrono.es",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "referrer": "perplexity.ai",
     "count": 6,
     "uniques": 1
   },
@@ -20,19 +20,24 @@
     "uniques": 1
   },
   {
-    "referrer": "lsi.uc3m.es",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "referrer": "teams.public.onecdn.static.microsoft",
     "count": 4,
     "uniques": 2
   },
   {
+    "referrer": "lsi.uc3m.es",
+    "count": 3,
+    "uniques": 1
+  },
+  {
     "referrer": "search.brave.com",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "doubao.com",
@@ -41,11 +46,6 @@
   },
   {
     "referrer": "qwant.com",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "web.telegram.org",
     "count": 2,
     "uniques": 1
   }
