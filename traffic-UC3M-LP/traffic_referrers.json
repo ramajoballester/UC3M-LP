@@ -1,8 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 84,
-    "uniques": 28
+    "count": 101,
+    "uniques": 30
+  },
+  {
+    "referrer": "lsi.uc3m.es",
+    "count": 14,
+    "uniques": 2
   },
   {
     "referrer": "edatos.consorciomadrono.es",
@@ -25,14 +30,14 @@
     "uniques": 2
   },
   {
-    "referrer": "lsi.uc3m.es",
+    "referrer": "search.brave.com",
     "count": 3,
     "uniques": 1
   },
   {
-    "referrer": "search.brave.com",
-    "count": 3,
-    "uniques": 1
+    "referrer": "Bing",
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "chatgpt.com",
@@ -42,11 +47,6 @@
   {
     "referrer": "qwant.com",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "Bing",
-    "count": 1,
     "uniques": 1
   }
 ]
