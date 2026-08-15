@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 105,
+    "count": 106,
     "uniques": 36
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 14,
-    "uniques": 2
+    "count": 32,
+    "uniques": 4
   },
   {
     "referrer": "perplexity.ai",
@@ -16,8 +16,13 @@
   },
   {
     "referrer": "teams.public.onecdn.static.microsoft",
-    "count": 4,
+    "count": 5,
     "uniques": 2
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "Bing",
@@ -37,11 +42,6 @@
   {
     "referrer": "qwant.com",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "chatgpt.com",
-    "count": 1,
     "uniques": 1
   }
 ]
