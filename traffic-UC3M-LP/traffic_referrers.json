@@ -1,12 +1,17 @@
 [
   {
     "referrer": "Google",
-    "count": 106,
-    "uniques": 36
+    "count": 100,
+    "uniques": 33
   },
   {
     "referrer": "lsi.uc3m.es",
     "count": 32,
+    "uniques": 4
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 6,
     "uniques": 4
   },
   {
@@ -20,28 +25,23 @@
     "uniques": 2
   },
   {
-    "referrer": "chatgpt.com",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "referrer": "Bing",
     "count": 3,
     "uniques": 3
   },
   {
     "referrer": "doubao.com",
-    "count": 3,
+    "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "search.brave.com",
-    "count": 3,
-    "uniques": 1
   },
   {
     "referrer": "qwant.com",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "dev.azure.com",
+    "count": 1,
     "uniques": 1
   }
 ]

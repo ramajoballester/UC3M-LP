@@ -2,8 +2,8 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "Overview",
-    "count": 92,
-    "uniques": 60
+    "count": 91,
+    "uniques": 57
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
@@ -20,14 +20,14 @@
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/docs",
     "title": "/tree/main/docs",
-    "count": 11,
-    "uniques": 8
+    "count": 9,
+    "uniques": 6
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
     "title": "/blob/main/docs/dataset.png",
-    "count": 9,
-    "uniques": 9
+    "count": 8,
+    "uniques": 8
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00064.jpg",
@@ -42,12 +42,6 @@
     "uniques": 5
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/docs/lp_a.jpg",
-    "title": "/blob/main/docs/lp_a.jpg",
-    "count": 5,
-    "uniques": 5
-  },
-  {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00064.json",
     "title": "/blob/main/sample/00064.json",
     "count": 5,
@@ -56,6 +50,12 @@
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/scripts/labels2yolo.py",
     "title": "/blob/main/scripts/labels2yolo.py",
+    "count": 5,
+    "uniques": 4
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/scripts",
+    "title": "/tree/main/scripts",
     "count": 5,
     "uniques": 4
   }
