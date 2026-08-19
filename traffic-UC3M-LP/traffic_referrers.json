@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 100,
-    "uniques": 33
+    "count": 109,
+    "uniques": 38
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 29,
-    "uniques": 3
+    "count": 30,
+    "uniques": 4
   },
   {
     "referrer": "chatgpt.com",
-    "count": 7,
-    "uniques": 4
+    "count": 11,
+    "uniques": 5
   },
   {
     "referrer": "perplexity.ai",
@@ -21,7 +21,7 @@
   },
   {
     "referrer": "teams.public.onecdn.static.microsoft",
-    "count": 5,
+    "count": 4,
     "uniques": 2
   },
   {
@@ -41,6 +41,11 @@
   },
   {
     "referrer": "dev.azure.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "yandex.ru",
     "count": 1,
     "uniques": 1
   }
