@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 67,
-    "uniques": 28
+    "count": 66,
+    "uniques": 27
   },
   {
     "referrer": "claude.ai",
@@ -10,14 +10,14 @@
     "uniques": 4
   },
   {
+    "referrer": "chatgpt.com",
+    "count": 22,
+    "uniques": 10
+  },
+  {
     "referrer": "Bing",
     "count": 21,
     "uniques": 3
-  },
-  {
-    "referrer": "chatgpt.com",
-    "count": 20,
-    "uniques": 10
   },
   {
     "referrer": "lsi.uc3m.es",
@@ -41,11 +41,6 @@
   },
   {
     "referrer": "search.brave.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "teams.public.onecdn.static.microsoft",
     "count": 1,
     "uniques": 1
   }
