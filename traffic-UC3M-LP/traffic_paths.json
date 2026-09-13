@@ -2,30 +2,18 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "Overview",
-    "count": 97,
-    "uniques": 57
+    "count": 93,
+    "uniques": 55
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "/tree/main/sample",
-    "count": 20,
-    "uniques": 12
+    "count": 15,
+    "uniques": 10
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/README.md",
     "title": "/blob/main/README.md",
-    "count": 8,
-    "uniques": 4
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
-    "title": "/blob/main/sample/00026.jpg",
-    "count": 7,
-    "uniques": 6
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
-    "title": "/tree/main/docs",
     "count": 6,
     "uniques": 3
   },
@@ -36,10 +24,16 @@
     "uniques": 5
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00427.jpg",
-    "title": "/blob/main/sample/00427.jpg",
-    "count": 4,
-    "uniques": 3
+    "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
+    "title": "/blob/main/sample/00026.jpg",
+    "count": 5,
+    "uniques": 5
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/docs",
+    "title": "/tree/main/docs",
+    "count": 5,
+    "uniques": 2
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
@@ -48,15 +42,21 @@
     "uniques": 3
   },
   {
-    "path": "/ramajoballester/UC3M-LP/blob/main/sample/01098.jpg",
-    "title": "/blob/main/sample/01098.jpg",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/requirements.txt",
-    "title": "/blob/main/requirements.txt",
+    "path": "/ramajoballester/UC3M-LP/issues",
+    "title": "/issues",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/tree/main/.github/workflows",
+    "title": "/tree/main/.github/workflows",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/cfg/UC3M-LP-lp.yaml",
+    "title": "/blob/main/cfg/UC3M-LP-lp.yaml",
+    "count": 3,
+    "uniques": 2
   }
 ]
