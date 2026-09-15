@@ -2,13 +2,13 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "Overview",
-    "count": 93,
-    "uniques": 55
+    "count": 85,
+    "uniques": 51
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "/tree/main/sample",
-    "count": 16,
+    "count": 15,
     "uniques": 11
   },
   {
@@ -42,12 +42,6 @@
     "uniques": 3
   },
   {
-    "path": "/ramajoballester/UC3M-LP/issues",
-    "title": "/issues",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/ramajoballester/UC3M-LP/tree/main/.github/workflows",
     "title": "/tree/main/.github/workflows",
     "count": 3,
@@ -57,6 +51,12 @@
     "path": "/ramajoballester/UC3M-LP/blob/main/cfg/UC3M-LP-lp.yaml",
     "title": "/blob/main/cfg/UC3M-LP-lp.yaml",
     "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/requirements.txt",
+    "title": "/blob/main/requirements.txt",
+    "count": 2,
     "uniques": 2
   }
 ]

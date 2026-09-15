@@ -1,17 +1,17 @@
 [
   {
     "referrer": "Google",
-    "count": 57,
+    "count": 55,
     "uniques": 26
   },
   {
     "referrer": "chatgpt.com",
-    "count": 14,
-    "uniques": 7
+    "count": 13,
+    "uniques": 6
   },
   {
     "referrer": "claude.ai",
-    "count": 8,
+    "count": 7,
     "uniques": 4
   },
   {
