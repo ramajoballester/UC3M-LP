@@ -1,13 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 65,
-    "uniques": 27
-  },
-  {
-    "referrer": "chatgpt.com",
-    "count": 9,
-    "uniques": 4
+    "count": 67,
+    "uniques": 29
   },
   {
     "referrer": "lsi.uc3m.es",
@@ -23,6 +18,11 @@
     "referrer": "Bing",
     "count": 5,
     "uniques": 2
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "claude.ai",
