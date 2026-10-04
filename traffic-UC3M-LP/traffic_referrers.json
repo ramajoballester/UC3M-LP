@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 25,
-    "uniques": 20
+    "count": 22,
+    "uniques": 18
   },
   {
     "referrer": "chatgpt.com",
-    "count": 9,
-    "uniques": 6
+    "count": 6,
+    "uniques": 5
   },
   {
     "referrer": "lsi.uc3m.es",
@@ -21,18 +21,13 @@
   },
   {
     "referrer": "sciencedirect.com",
-    "count": 5,
+    "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "overleaf.com",
-    "count": 4,
-    "uniques": 1
   },
   {
     "referrer": "Bing",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "referrer": "perplexity.ai",
