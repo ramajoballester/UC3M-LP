@@ -11,13 +11,13 @@
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 5,
-    "uniques": 3
+    "count": 4,
+    "uniques": 2
   },
   {
     "referrer": "chatgpt.com",
-    "count": 4,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "referrer": "Bing",
@@ -26,11 +26,6 @@
   },
   {
     "referrer": "perplexity.ai",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "sciencedirect.com",
     "count": 1,
     "uniques": 1
   }
