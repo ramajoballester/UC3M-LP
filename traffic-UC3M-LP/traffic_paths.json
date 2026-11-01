@@ -2,60 +2,60 @@
   {
     "path": "/ramajoballester/UC3M-LP",
     "title": "Overview",
-    "count": 55,
-    "uniques": 34
+    "count": 58,
+    "uniques": 35
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/README.md",
     "title": "/blob/main/README.md",
     "count": 17,
-    "uniques": 7
+    "uniques": 8
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/sample",
     "title": "/tree/main/sample",
-    "count": 14,
-    "uniques": 11
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
-    "title": "/blob/main/docs/dataset.png",
-    "count": 7,
-    "uniques": 7
+    "count": 16,
+    "uniques": 13
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00026.jpg",
     "title": "/blob/main/sample/00026.jpg",
-    "count": 7,
-    "uniques": 7
+    "count": 9,
+    "uniques": 9
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/docs/dataset.png",
+    "title": "/blob/main/docs/dataset.png",
+    "count": 8,
+    "uniques": 8
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/docs",
     "title": "/tree/main/docs",
-    "count": 7,
-    "uniques": 5
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main/cfg",
     "title": "/tree/main/cfg",
-    "count": 6,
-    "uniques": 5
+    "count": 7,
+    "uniques": 6
   },
   {
     "path": "/ramajoballester/UC3M-LP/blob/main/sample/00064.jpg",
     "title": "/blob/main/sample/00064.jpg",
+    "count": 5,
+    "uniques": 4
+  },
+  {
+    "path": "/ramajoballester/UC3M-LP/blob/main/docs/lp_b.png",
+    "title": "/blob/main/docs/lp_b.png",
     "count": 3,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "path": "/ramajoballester/UC3M-LP/tree/main",
     "title": "/tree/main",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/ramajoballester/UC3M-LP/tree/main/.github/workflows",
-    "title": "/tree/main/.github/workflows",
     "count": 3,
     "uniques": 2
   }
