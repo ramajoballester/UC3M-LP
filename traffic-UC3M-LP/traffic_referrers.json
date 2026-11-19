@@ -1,36 +1,31 @@
 [
   {
     "referrer": "Google",
-    "count": 30,
-    "uniques": 19
-  },
-  {
-    "referrer": "lsi.uc3m.es",
-    "count": 9,
-    "uniques": 6
+    "count": 32,
+    "uniques": 24
   },
   {
     "referrer": "github.com",
-    "count": 4,
-    "uniques": 2
+    "count": 11,
+    "uniques": 4
   },
   {
-    "referrer": "search.brave.com",
-    "count": 3,
-    "uniques": 2
+    "referrer": "lsi.uc3m.es",
+    "count": 10,
+    "uniques": 3
   },
   {
-    "referrer": "Bing",
+    "referrer": "markdownlivepreview.com",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "github.gsissc.myatos.net",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "claude.ai",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "teams.public.onecdn.static.microsoft",
+    "referrer": "pdf.sciencedirectassets.com",
     "count": 1,
     "uniques": 1
   }
