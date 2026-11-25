@@ -2,20 +2,25 @@
   {
     "referrer": "Google",
     "count": 29,
-    "uniques": 24
+    "uniques": 23
   },
   {
     "referrer": "lsi.uc3m.es",
-    "count": 14,
+    "count": 13,
     "uniques": 3
   },
   {
     "referrer": "github.com",
-    "count": 12,
-    "uniques": 6
+    "count": 4,
+    "uniques": 4
   },
   {
     "referrer": "markdownlivepreview.com",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "search.brave.com",
     "count": 2,
     "uniques": 1
   },
